@@ -1,0 +1,73 @@
+### basic settings
+
+# site properties and page defaults
+title: Smart Energy Lab
+description: From Big Data to Better Decisions
+logo: images/LogoLab.jpg
+header: images/background.jpg
+footer: images/background.jpg
+baseurl: /selab
+
+# site social media and other links
+links:
+  email: minh.nguyenquoc@hust.edu.vn
+  google-scholar: Minh Quoc Nguyen
+  github: #
+  twitter: #
+  instagram: #
+  youtube: #
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+### advanced settings
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null
