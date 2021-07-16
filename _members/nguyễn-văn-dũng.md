@@ -6,7 +6,8 @@ role: thanhvien8
 aliases:
 
 links:
-  home-page: https://fb.com/nguyenvandung181126
+  #home-page: https://fb.com/nguyenvandung181126
+  linkedin: #
   email: dung.nv181126@sis.hust.edu.vn
   #twitter: uptonogoode
 ---

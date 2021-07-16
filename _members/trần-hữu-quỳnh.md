@@ -6,7 +6,8 @@ role: thanhvien9
 aliases:
 
 links:
-  home-page: https://fb.com/tranhuu.quynh247
+  #home-page: https://fb.com/tranhuu.quynh247
+  linkedin: #
   email: quynh.th191605@sis.hust.edu.vn
   #twitter: uptonogoode
 ---

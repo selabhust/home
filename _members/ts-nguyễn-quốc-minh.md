@@ -10,6 +10,7 @@ links:
   email: minh.nguyenquoc@hust.edu.vn
   #github: anne-chovie
   phone: 0913281695
+  google-scholar: 3k7E5NEAAAAJ
 ---
 Phó Trưởng Bộ môn Hệ thống điện, Viện Điện, Đại học Bách Khoa Hà Nội.
 

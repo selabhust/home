@@ -6,8 +6,9 @@ role: thanhvien2
 aliases:
 
 links:
-  home-page: https://fb.com/hoangnambnlc
-  email: 
+  #home-page: https://fb.com/hoangnambnlc
+  linkedin: #
+  email: nam.th174084@sis.hust.edu.vn
 ---
 
 Học chuyên ngành Kỹ thuật điện.

@@ -6,8 +6,10 @@ role: truonglab
 aliases:
 
 links:
-  home-page: https://fb.com/heogau3110btp
+  #home-page: https://fb.com/heogau3110btp
+  linkedin: #
   email: phuong.bt174121@sis.hust.edu.vn
+  github: #
   #twitter: uptonogoode
 ---
 

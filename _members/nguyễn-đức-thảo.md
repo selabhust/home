@@ -6,7 +6,8 @@ role: thanhvien7
 aliases:
 
 links:
-  home-page: https://fb.com/becauseofyou1708
+  #home-page: https://fb.com/becauseofyou1708
+  linkedin: #
   email: thao.nd181271@sis.hust.edu.vn
   #twitter: uptonogoode
 ---

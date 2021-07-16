@@ -7,7 +7,8 @@ group: alum
 aliases:
   - Tien-Nguyen Dang
 links:
-  home-page: https://fb.com/tienkira1
+  #home-page: https://fb.com/tienkira1
+  linkedin: tiennguyendang
   email: tien.nd174260@sis.hust.edu.vn
   github: monkiravn
 ---

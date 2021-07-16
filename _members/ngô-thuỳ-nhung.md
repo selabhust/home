@@ -6,8 +6,10 @@ role: thanhvien10
 aliases:
 
 links:
-  home-page: https://fb.com/thuynhung0510
+  #home-page: https://fb.com/thuynhung0510
+  linkedin: #
   email: nhung.nt191585@sis.hust.edu.vn
+  github: #
   #twitter: uptonogoode
 ---
 

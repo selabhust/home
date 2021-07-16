@@ -6,7 +6,8 @@ role: thanhvien5
 aliases:
 
 links:
-  home-page: https://fb.com/ninh.trang.5811
+  #home-page: https://fb.com/ninh.trang.5811
+  linkedin: #
   email: ninh.tt181240@sis.hust.edu.vn
   #twitter: uptonogoode
 ---

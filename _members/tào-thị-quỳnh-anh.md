@@ -6,7 +6,8 @@ role: thanhvien4
 aliases:
 
 links:
-  home-page: https://fb.com/quynhanh.taothi
+  #home-page: https://fb.com/quynhanh.taothi
+  linkedin: #
   email: anh.ttq181941@sis.hust.edu.vn
   #twitter: uptonogoode
 ---
