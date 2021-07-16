@@ -1,5 +1,9 @@
 ---
 title: Home
+nav:
+  order: 5
+  tooltip: Home Page
+---
 ---
 
 # From Big Data to Better Decisions
