@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Trang chủ
 nav:
   order: 1
   tooltip: Home Page
