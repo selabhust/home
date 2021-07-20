@@ -1,14 +1,14 @@
 ---
-title: Contact
+title: Liên hệ
 nav:
   order: 5
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-envelope"></i>Contact
-
-Our lab is part of the [Hệ thống điện](), at the school of [Bách Khoa Hà Nội]().
-We are located on the 1st floor of the [C2]().
+# <i class="fas fa-envelope"></i>Liên hệ
+TS. Nguyễn Quốc Minh
+Cell: +84 913281695
+E-mail: minh.nguyenquoc@hust.edu.vn
 
 {%
   include link.html
