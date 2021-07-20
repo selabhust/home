@@ -13,7 +13,7 @@
       stroke="currentColor"
       stroke-linecap="round"
       stroke-linejoin="round"
-      stroke-width="80"
+      stroke-width="50"
       d="
         M -125 125 
         L -125 -125
