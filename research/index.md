@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Nghiên cứu
 nav:
   order: 2
   tooltip: Published works
