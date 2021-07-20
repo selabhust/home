@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Đăng Tiến
 image: images/NguyenDangTien.jpg
-description: Thành viên
+description: EE2-K62
 role: thanhvien1
 group: alum
 aliases:
