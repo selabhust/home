@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Hệ thống điện](), at the school of [Bách Khoa Hà Nội]().
+We are located on the 1st floor of the [C2]().
 
 {%
   include link.html
