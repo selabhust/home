@@ -2,7 +2,7 @@
 name: Trần Hữu Quỳnh
 image: images/TranHuuQuynh.jpg
 description: Thành viên
-role: thanhvien
+role: thanhvien10
 aliases:
 
 links:
