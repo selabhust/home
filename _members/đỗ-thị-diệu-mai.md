@@ -1,6 +1,6 @@
 ---
 name: Đỗ Thị Diệu Mai
-image: images/DoThiDieuMai.jpg
+image: images/DoThiDieuMai.JPG
 description: Thành viên
 role: thanhvien11
 aliases:
