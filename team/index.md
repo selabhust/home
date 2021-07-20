@@ -120,19 +120,19 @@ Our work is made possible by funding from several organizations.
 
   image1="images/funding1.jpg"
   link1="/images/funding1.jpg"
-  tooltip1="Cool Foundation"
+  
 
   image2="images/funding2.jpg"
   link2="/images/funding2.jpg"
-  tooltip2="Cool Institute"
+  
 
   image3="images/funding3.jpg"
   link3="/images/funding3.jpg"
-  tooltip3="Cool Initiative"
+  
 
   image4="images/funding4.jpg"
   link4="/images/funding4.jpg"
-  tooltip4="Cool Foundation"
+  
 
   image5="images/funding9.jpg"
   link5="/images/funding9.jpg"
