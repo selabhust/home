@@ -1,7 +1,7 @@
 ---
 name: Tào Thị Quỳnh Anh
 image: images/TaoThiQuynhAnh.jpg
-description: Thành viên
+description: EM1-K63
 role: thanhvien4
 aliases:
 
