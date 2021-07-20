@@ -1,7 +1,7 @@
 ---
 name: Trần Hữu Quỳnh
 image: images/TranHuuQuynh.jpg
-description: Thành viên
+description: EE1-K64
 role: thanhvien10
 aliases:
 
