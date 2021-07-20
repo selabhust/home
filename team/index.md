@@ -91,6 +91,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: thanhvien10"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien11"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
