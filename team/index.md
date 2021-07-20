@@ -83,13 +83,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien9"
+  filters="role: thanhvien"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien10"
+  filters="role: thanhvien"
 %}
 {:.center}
 
