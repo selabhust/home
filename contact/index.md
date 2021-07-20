@@ -7,27 +7,11 @@ nav:
 
 # <i class="fas fa-envelope"></i>Liên hệ
 TS. Nguyễn Quốc Minh
+C1-117, Đai học Bách Khoa Hà Nội
+Số 1 Đại Cồ Việt, Quận Hai Bà Trưng, Hà Nội
 Cell: +84 913281695
 E-mail: minh.nguyenquoc@hust.edu.vn
 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="minh.nguyenquoc@hust.edu.vn"
-  tooltip=""
-  link="minh.nguyenquoc@hust.edu.vn"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(+84) 913-281-695"
-  tooltip=""
-  link="0913281695"
-  style="button"
-%}
 {%
   include link.html
   type="address"
