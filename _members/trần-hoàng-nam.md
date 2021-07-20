@@ -1,7 +1,7 @@
 ---
 name: Trần Hoàng Nam
 image: images/TranHoangNam.jpg
-description: Thành viên
+description: EE1-K62
 role: thanhvien2
 aliases:
 
