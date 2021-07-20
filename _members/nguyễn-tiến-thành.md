@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Tiến Thành
 image: images/NguyenTienThanh.jpg
-description: Thành viên
+description: EE1-K63
 role: thanhvien3
 aliases:
 
