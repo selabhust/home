@@ -83,13 +83,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien"
+  filters="role: thanhvien9"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien"
+  filters="role: thanhvien10"
 %}
 {:.center}
 
@@ -136,9 +136,9 @@ Our work is made possible by funding from several organizations.
 
   image5="images/funding9.jpg"
   link5="/images/funding9.jpg"
-  tooltip5="Cool Institute"
+  
 
   image6="images/funding7.jpg"
   link6="images/funding7.jpg"
-  tooltip6="Cool Initiative"
+  
 %}
