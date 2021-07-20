@@ -1,7 +1,7 @@
 ---
 name: Ngô Thuỳ Nhung
 image: images/NgoThuyNhung.jpg
-description: EE1-02-K64
+description: EE1-K64
 role: thanhvien9
 aliases:
 
