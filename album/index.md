@@ -22,6 +22,19 @@ image4="images/funding4.jpg" link4="/images/funding4.jpg" tooltip4="Cool Foundat
 
 image5="images/funding9.jpg" link5="/images/funding9.jpg" tooltip5="Cool Institute"
 
-image6="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative" %}
+image6="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative"
+
+image7="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative"
+
+image8="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative"
+
+image9="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative"
+
+image10="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative"
+
+image11="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative"
+
+image12="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative"
+ %}
 
 {% include section.html %}
