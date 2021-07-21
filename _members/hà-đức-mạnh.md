@@ -1,25 +1,20 @@
 ---
 name: Hà Đức Mạnh
 image: images/NguyenDangTien.jpg
-description: EE2-K62
+description: EE1-K62
 role: thanhvien4
 group: alum
 aliases:
   - Tien-Nguyen Dang
 links:
-  #home-page: https://fb.com/tienkira1
-  linkedin: tiennguyendang
-  email: tien.nd174260@sis.hust.edu.vn
-  github: monkiravn
+  #home-page: 
+  linkedin: 
+  email: manh.hd20174043@sis.hust.edu.vn
+  github:
 ---
 
-Học chuyên ngành Kỹ thuật điều khiển tự động hoá.
+Học chuyên ngành Kỹ thuật điện.
 
 Khoá 62 Trường Đại học Bách Khoa Hà Nội.
 
-Hướng nghiên cứu: 
-  
-  - Ứng dụng khoa học dữ liệu trong hệ thống điện.
 
-  - Xử lý ảnh y sinh.
-  
