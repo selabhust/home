@@ -155,36 +155,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Funding
+## Cựu thành viên
 
-Our work is made possible by funding from several organizations.
+Các cựu thành viên của lab:                              Đơn vị công tác
+  - Vũ Thị Hòa, hệ thống điện K60                              A1
+  - Vũ Hoài Giang, hệ thống điện K60                           A0
 {:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/funding1.jpg"
-  link1="/images/funding1.jpg"
-  
-
-  image2="images/funding2.jpg"
-  link2="/images/funding2.jpg"
-  
-
-  image3="images/funding3.jpg"
-  link3="/images/funding3.jpg"
-  
-
-  image4="images/funding4.jpg"
-  link4="/images/funding4.jpg"
-  
-
-  image5="images/funding9.jpg"
-  link5="/images/funding9.jpg"
-  
-
-  image6="images/funding7.jpg"
-  link6="images/funding7.jpg"
-  
-%}

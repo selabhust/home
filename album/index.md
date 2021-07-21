@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Thư viện ảnh
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Album
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
