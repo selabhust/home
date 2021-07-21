@@ -23,12 +23,7 @@ Các thành viên của lab bao gồm các bạn sinh viên đến từ các chu
   component="portrait"
   filters="role: truonglab"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: k611"
-%}
+
 {%
   include list.html
   data="members"

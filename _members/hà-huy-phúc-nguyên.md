@@ -1,8 +1,8 @@
 ---
-name: Nguyễn Đăng Tiến
+name: Hà Huy Phúc Nguyên
 image: images/NguyenDangTien.jpg
 description: EE2-K62
-role: thanhvien3
+role: thanhvien19
 group: alum
 aliases:
   - Tien-Nguyen Dang

@@ -1,8 +1,8 @@
 ---
-name: Nguyễn Đăng Tiến
+name: Đỗ Đức Anh
 image: images/NguyenDangTien.jpg
 description: EE2-K62
-role: thanhvien3
+role: thanhvien5
 group: alum
 aliases:
   - Tien-Nguyen Dang

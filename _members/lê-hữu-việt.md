@@ -2,7 +2,7 @@
 name: Lê Hữu Việt
 image: images/DoThiDieuMai.JPG
 description: EE1-K64
-role: thanhvien18
+role: thanhvien14
 aliases:
 
 links:

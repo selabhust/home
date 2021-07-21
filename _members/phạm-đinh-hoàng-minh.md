@@ -2,7 +2,7 @@
 name: Phạm Đình Hoàng Minh
 image: images/DoThiDieuMai.JPG
 description: EE1-K64
-role: thanhvien16
+role: thanhvien12
 aliases:
 
 links:
