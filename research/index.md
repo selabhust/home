@@ -15,7 +15,7 @@ nav:
 
 4. Truyền tải điện không dây
 
-## <i class="fas fa-microscope"></i>Các công bố khoa học
+# <i class="fas fa-microscope"></i>Các công bố khoa học
 
 {% include section.html %}
 
