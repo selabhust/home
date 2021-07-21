@@ -2,7 +2,7 @@
 name: Hà Đức Mạnh
 image: images/NguyenDangTien.jpg
 description: EE2-K62
-role: thanhvien2
+role: thanhvien4
 group: alum
 aliases:
   - Tien-Nguyen Dang

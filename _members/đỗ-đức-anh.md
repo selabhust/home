@@ -2,7 +2,7 @@
 name: Đỗ Đức Anh
 image: images/NguyenDangTien.jpg
 description: EE2-K62
-role: thanhvien5
+role: thanhvien1
 group: alum
 aliases:
   - Tien-Nguyen Dang

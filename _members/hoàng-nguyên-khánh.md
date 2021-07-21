@@ -2,7 +2,7 @@
 name: Hoàng Nguyên Khánh
 image: images/HoangNguyenKhanh.jpg
 description: Thành viên
-role: thanhvien4
+role: thanhvien2
 aliases:
 
 links:
