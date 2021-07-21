@@ -28,19 +28,21 @@ image7="images/funding4.jpg" link7="/images/funding4.jpg" tooltip7="SV NCKH NLTT
 
 image8="images/funding8.jpg" link8="images/funding8.jpg" tooltip8="Đi thực tế"
 
-image9="images/funding1.jpg" link9="/images/funding1.jpg" tooltip9="Liên hoan lab"
+image9="images/funding17.jpg" link9="images/funding17.jpg" tooltip9="Bảo vệ đề tài tại SV NCKH NLTT 2020"
+image10="images/funding6.jpg" link10="images/funding6.jpg" tooltip10="Đi thực tế"
 
-image10="images/funding14.jpg" link10="images/funding14.jpg" tooltip10="Giao lưu văn nghệ trong lab"
+image11="images/funding18.jpg" link11="images/funding18.jpg" tooltip11="SV NCKH NLTT 2020"
 
-image11="images/funding15.jpg" link11="images/funding15.jpg" tooltip11="SV NCKH NLTT 2020"
+image12="images/funding15.jpg" link12="images/funding15.jpg" tooltip12="SV NCKH NLTT 2020"
 
-image12="images/funding16.jpg" link12="images/funding16.jpg" tooltip12="Chúc tết Tân Sửu 2021"
+image13="images/funding16.jpg" link13="images/funding16.jpg" tooltip13="Chúc tết Tân Sửu 2021"
 
-image13="images/funding17.jpg" link13="images/funding17.jpg" tooltip13="Bảo vệ đề tài tại SV NCKH NLTT 2020"
+image14="images/funding14.jpg" link14="images/funding14.jpg" tooltip14="Giao lưu văn nghệ trong lab"
 
-image14="images/funding18.jpg" link14="images/funding18.jpg" tooltip14="SV NCKH NLTT 2020"
+image15="images/funding1.jpg" link13="/images/funding1.jpg" tooltip15="Liên hoan lab"
 
-image15="images/funding6.jpg" link15="images/funding6.jpg" tooltip15="Đi thực tế"
+
+
 
 
  %}
