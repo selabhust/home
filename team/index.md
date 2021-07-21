@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Các thành viên trong lab
 
-Các thành viên của lab bao gồm các bạn sinh viên đến từ các chuyên ngành điện, tự động hóa, kinh tế công nghiệp và toán tin.
-
 {% include section.html %}
 
 {%
@@ -139,25 +137,18 @@ Các thành viên của lab bao gồm các bạn sinh viên đến từ các chu
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="/contact"
-  style="button"
-%}
-{:.center}
-
-{% include section.html %}
-
 ## Cựu thành viên
 
 Các cựu thành viên của lab:                              
-  - Vũ Thị Hòa, hệ thống điện K60, đơn vị công tác: A1
-  - Vũ Hoài Giang, hệ thống điện K60, đơn vị công tác: A0
-{:.center}
+PhangPhen Sopanharithychey, hệ thống điện K61, hiện đang làm việc tại Điều độ HTĐ Cambodia<br>
+Vũ Thị Hòa, hệ thống điện K60, hiện đang làm việc tại A1<br>
+Vũ Hoài Giang, hệ thống điện K60, hiện đang làm việc tại A0<br>
+Nguyễn Việt Dũng, hệ thống điện K60, hiện đang làm việc tại A0<br>
+Võ Tá Đông, hệ thống điện K59, hiện đang làm việc tại Toshiba<br>
+Nguyễn Duy Minh, hệ thống điện K59, hiện đang làm việc tại PC Hà Tĩnh<br>
+Yem Cheanich, hệ thống điện K59, hiện đang làm việc tại Schneider Electric<br>
+Nguyễn Thái Dương, hệ thống điện K58, hiện đang làm việc tại NPC<br>
+Hồ Văn Huy, hệ thống điện K57, hiện đang làm việc tại Samsung<br>
+Lê Thanh Bình, hệ thống điện K57, hiện đang làm việc tại Viện Năng Lượng<br>
+Nguyễn Việt Trung, hệ thống điện K57, hiện đang làm việc tại TOJI Group
+
