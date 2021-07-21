@@ -13,6 +13,6 @@ links:
   #twitter: uptonogoode
 ---
 
-Học chuyên ngành Kỹ thuật công nghiệp.
+Học chuyên ngành Kinh tế công nghiệp.
 
 Khoá 63 Trường Đại học Bách Khoa Hà Nội.
