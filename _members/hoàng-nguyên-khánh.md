@@ -1,8 +1,8 @@
 ---
 name: Hoàng Nguyên Khánh
 image: images/HoangNguyenKhanh.jpg
-description: Thành viên
-role: k611
+description: CTTT Kỹ thuật điện -K61
+role: thanhvien2
 aliases:
 
 links:

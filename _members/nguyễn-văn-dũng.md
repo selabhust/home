@@ -2,7 +2,7 @@
 name: Nguyễn Văn Dũng
 image: images/NguyenVanDung.jpg
 description: EE1-K63
-role: thanhvien8
+role: thanhvien10
 aliases:
 
 links:

@@ -1,0 +1,18 @@
+---
+name: Phạm Đình Hoàng Minh
+image: images/DoThiDieuMai.JPG
+description: EM1-K63
+role: thanhvien12
+aliases:
+
+links:
+  #home-page: https://fb.com/tranhuu.quynh247
+  linkedin: #
+  email: minh.pdh181965@sis.hust.edu.vn
+  facebook: adggr
+  #twitter: uptonogoode
+---
+
+Học chuyên ngành Kỹ thuật công nghiệp.
+
+Khoá 63 Trường Đại học Bách Khoa Hà Nội.

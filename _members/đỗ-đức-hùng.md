@@ -1,14 +1,14 @@
 ---
-name: Đỗ Thị Diệu Mai
+name: Đỗ Đức Hùng
 image: images/DoThiDieuMai.JPG
 description: Thành viên
-role: thanhvien17
+role: thanhvien18
 aliases:
 
 links:
   #home-page: https://fb.com/tranhuu.quynh247
   linkedin: #
-  email: mai.dtd191560@sis.hust.edu.vn
+  email: hung.dd1915190@sis.hust.edu.vn
   #twitter: uptonogoode
 ---
 
