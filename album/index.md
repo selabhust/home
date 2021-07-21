@@ -12,7 +12,7 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
-image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Cool Foundation"
+image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Liên hoan lab"
 
 image2="images/funding2.jpg" link2="/images/funding2.jpg" tooltip2="Cool Institute"
 
