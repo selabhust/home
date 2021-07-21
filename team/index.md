@@ -137,7 +137,7 @@ nav:
 %}
 {:.center}
 
-### <i class="fas fa-users"></i> Cựu thành viên                          
+# <i class="fas fa-users"></i> Cựu thành viên                          
 PhangPhen Sopanharithychey, hệ thống điện K61, hiện đang làm việc tại Điều độ HTĐ Cambodia<br>
 
 Vũ Thị Hòa, hệ thống điện K60, hiện đang làm việc tại A1<br>
