@@ -1,6 +1,6 @@
 ---
 name: Đỗ Đức Anh
-image: images/NguyenDangTien.jpg
+image: images/doducanh.jpg
 description: EE1-K61
 role: thanhvien1
 group: alum

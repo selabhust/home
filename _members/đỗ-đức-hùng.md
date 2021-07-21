@@ -1,6 +1,6 @@
 ---
 name: Đỗ Đức Hùng
-image: images/DoThiDieuMai.JPG
+image: images/doduchung.jpg
 description: Thành viên
 role: thanhvien18
 aliases:
