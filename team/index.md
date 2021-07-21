@@ -140,6 +140,15 @@ nav:
 ## Cựu thành viên
 
 Các cựu thành viên của lab:                              
-  - Vũ Thị Hòa, hệ thống điện K60, đơn vị công tác: A1
-  - Vũ Hoài Giang, hệ thống điện K60, đơn vị công tác: A0
+PhangPhen Sopanharithychey, hệ thống điện K61, hiện đang làm việc tại Điều độ HTĐ Cambodia
+Vũ Thị Hòa, hệ thống điện K60, hiện đang làm việc tại A1
+Vũ Hoài Giang, hệ thống điện K60, hiện đang làm việc tại A0
+Nguyễn Việt Dũng, hệ thống điện K60, hiện đang làm việc tại A0
+Võ Tá Đông, hệ thống điện K59, hiện đang làm việc tại Toshiba
+Nguyễn Duy Minh, hệ thống điện K59, hiện đang làm việc tại PC Hà Tĩnh
+Yem Cheanich, hệ thống điện K59, hiện đang làm việc tại Schneider Electric
+Nguyễn Thái Dương, hệ thống điện K58, hiện đang làm việc tại NPC
+Hồ Văn Huy, hệ thống điện K57, hiện đang làm việc tại Samsung
+Lê Thanh Bình, hệ thống điện K57, hiện đang làm việc tại Viện Năng Lượng
+Nguyễn Việt Trung, hệ thống điện K57, hiện đang làm việc tại TOJI Group
 {:.center}
