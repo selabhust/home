@@ -1,7 +1,7 @@
 ---
 name: Hà Huy Phúc Nguyên
 image: images/NguyenDangTien.jpg
-description: EE2-K62
+description: CTTN Toán tin-K65
 role: thanhvien19
 group: alum
 aliases:
@@ -13,13 +13,8 @@ links:
   github: monkiravn
 ---
 
-Học chuyên ngành Kỹ thuật điều khiển tự động hoá.
+Học chuyên ngành CTTN Toán tin.
 
-Khoá 62 Trường Đại học Bách Khoa Hà Nội.
+Khoá 65 Trường Đại học Bách Khoa Hà Nội.
 
-Hướng nghiên cứu: 
-  
-  - Ứng dụng khoa học dữ liệu trong hệ thống điện.
 
-  - Xử lý ảnh y sinh.
-  
