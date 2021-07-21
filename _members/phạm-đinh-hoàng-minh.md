@@ -1,6 +1,6 @@
 ---
 name: Phạm Đình Hoàng Minh
-image: images/DoThiDieuMai.JPG
+image: images/PhamDinhHoangMinh.jpg
 description: EM1-K63
 role: thanhvien12
 aliases:
