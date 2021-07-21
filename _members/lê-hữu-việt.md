@@ -1,18 +1,18 @@
 ---
 name: Lê Hữu Việt
 image: images/DoThiDieuMai.JPG
-description: EE1-K64
+description: EM1-K63
 role: thanhvien14
 aliases:
 
 links:
   #home-page: https://fb.com/tranhuu.quynh247
   linkedin: #
-  email: mai.dtd191560@sis.hust.edu.vn
+  email: viet.lh181982@sis.hust.edu.vn
   facebook: adggr
   #twitter: uptonogoode
 ---
 
-Học chuyên ngành Kỹ thuật điện.
+Học chuyên ngành Kỹ thuật công nghiệp.
 
-Khoá 64 Trường Đại học Bách Khoa Hà Nội.
+Khoá 63 Trường Đại học Bách Khoa Hà Nội.
