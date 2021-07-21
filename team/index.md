@@ -157,7 +157,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Cựu thành viên
 
-Các cựu thành viên của lab:                              Đơn vị công tác
-  - Vũ Thị Hòa, hệ thống điện K60                              A1
-  - Vũ Hoài Giang, hệ thống điện K60                           A0
+Các cựu thành viên của lab:                              
+  - Vũ Thị Hòa, hệ thống điện K60                            Đơn vị công tác: A1
+  - Vũ Hoài Giang, hệ thống điện K60                         Đơn vị công tác: A0
 {:.center}
