@@ -151,4 +151,4 @@ Nguyễn Thái Dương, hệ thống điện K58, hiện đang làm việc tại
 Hồ Văn Huy, hệ thống điện K57, hiện đang làm việc tại Samsung<br>
 Lê Thanh Bình, hệ thống điện K57, hiện đang làm việc tại Viện Năng Lượng<br>
 Nguyễn Việt Trung, hệ thống điện K57, hiện đang làm việc tại TOJI Group
-{:.center}
+
