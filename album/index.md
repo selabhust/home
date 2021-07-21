@@ -5,23 +5,23 @@ nav:
   tooltip: Album
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>Thư viện ảnh
 
 {% include section.html %}
 
-{% include search-info.html %}
+{:.center}
+{% include gallery.html style="square"
 
-{% include list.html data="posts" component="post-excerpt" %}
+image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Cool Foundation"
+
+image2="images/funding2.jpg" link2="/images/funding2.jpg" tooltip2="Cool Institute"
+
+image3="images/funding3.jpg" link3="/images/funding3.jpg" tooltip3="Cool Initiative"
+
+image4="images/funding4.jpg" link4="/images/funding4.jpg" tooltip4="Cool Foundation"
+
+image5="images/funding9.jpg" link5="/images/funding9.jpg" tooltip5="Cool Institute"
+
+image6="images/funding7.jpg" link6="images/funding7.jpg" tooltip6="Cool Initiative" %}
 
 {% include section.html %}
-
-## News
-
-<!-- Twitter embeds from https://publish.twitter.com/ -->
-
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw">Tweets by GreeneScientist</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
-
-<a href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
