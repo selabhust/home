@@ -94,6 +94,54 @@ Các thành viên của lab bao gồm các bạn sinh viên đến từ các chu
   component="portrait"
   filters="role: thanhvien11"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien12"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien13"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien14"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien15"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien16"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien17"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien18"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien19"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
