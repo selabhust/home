@@ -1,6 +1,6 @@
 ---
 name: Hà Huy Phúc Nguyên
-image: images/NguyenDangTien.jpg
+image: images/HaHuyPhucNguyen.jpg
 description: CTTN Toán tin-K65
 role: thanhvien19
 group: alum
