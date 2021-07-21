@@ -1,6 +1,6 @@
 ---
 name: Hà Đức Mạnh
-image: images/NguyenDangTien.jpg
+image: images/haducmanh.jpg
 description: EE1-K62
 role: thanhvien4
 group: alum
