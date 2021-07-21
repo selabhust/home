@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Các thành viên trong lab
 
-Các thành viên của lab bao gồm các bạn sinh viên đến từ các chuyên ngành điện, tự động hóa, kinh tế công nghiệp và toán tin.
-
 {% include section.html %}
 
 {%
@@ -138,22 +136,6 @@ Các thành viên của lab bao gồm các bạn sinh viên đến từ các chu
   filters="role: thanhvien19"
 %}
 {:.center}
-
-{% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="/contact"
-  style="button"
-%}
-{:.center}
-
-{% include section.html %}
 
 ## Cựu thành viên
 
