@@ -14,6 +14,5 @@ Bên cạnh các kiến thức chuyên ngành, các bạn sinh viên đại họ
 
 {% include gallery.html
 image31="images/powersystem1.jpg" link21="images/powersystem1.jpg"
-{:.center}
 %}
-  
+{:.center}
