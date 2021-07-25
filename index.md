@@ -12,8 +12,7 @@ Xin chào các bạn đã ghé thăm website của SE LAB, trường Đại họ
 Bên cạnh các kiến thức chuyên ngành, các bạn sinh viên đại học và học viên sau đại học khi tham gia SELAB sẽ được trang bị các kỹ năng liên quan đến lập trình, sử dụng phần mềm, thuyết trình, làm việc nhóm, tiếng anh, mở rộng mạng lưới cơ hội thực tập và việc làm với các đối tác công nghiệp.
 
 {:.center}
-{% include gallery.html style="square"
-
+{% include gallery.html
 image31="images/powersystem1.jpg" link21="images/powersystem1.jpg"
 %}
   
