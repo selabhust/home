@@ -138,17 +138,17 @@ nav:
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên                          
-1. Hoàng Nguyên Khánh, CTTT hệ thống điện K61, hiện đang làm việc tại A0<br>
-2. Đỗ Đức Anh, hệ thống điện K61, hiện đang làm việc tại EDH<br>
-3. PhangPhen Sopanharithychey, hệ thống điện K61, hiện đang làm việc tại Điều độ HTĐ Cambodia<br>
-4. Vũ Thị Hòa, hệ thống điện K60, hiện đang làm việc tại A1<br>
-5. Vũ Hoài Giang, hệ thống điện K60, hiện đang làm việc tại A0<br>
-6. Nguyễn Việt Dũng, hệ thống điện K60, hiện đang làm việc tại A0<br>
-7. Võ Tá Đông, hệ thống điện K59, hiện đang làm việc tại Toshiba<br>
-8. Nguyễn Duy Minh, hệ thống điện K59, hiện đang làm việc tại PC Hà Tĩnh<br>
-9. Yem Cheanich, hệ thống điện K59, hiện đang làm việc tại Schneider Electric<br>
-10. Nguyễn Thái Dương, hệ thống điện K58, hiện đang làm việc tại NPC<br>
-11. Hồ Văn Huy, hệ thống điện K57, hiện đang làm việc tại Samsung<br>
-12. Lê Thanh Bình, hệ thống điện K57, hiện đang làm việc tại Viện Năng Lượng<br>
-13. Nguyễn Việt Trung, hệ thống điện K57, hiện đang làm việc tại TOJI Group
+1. Hoàng Nguyên Khánh-K61, hiện đang làm việc tại A0<br>
+2. Đỗ Đức Anh-K61, hiện đang làm việc tại EDH<br>
+3. PhangPhen Sopanharithychey-K61, hiện đang làm việc tại Điều độ HTĐ Cambodia<br>
+4. Vũ Thị Hòa-K60, hiện đang làm việc tại A1<br>
+5. Vũ Hoài Giang-K60, hiện đang làm việc tại A0<br>
+6. Nguyễn Việt Dũng-K60, hiện đang làm việc tại A0<br>
+7. Võ Tá Đông-K59, hiện đang làm việc tại Toshiba<br>
+8. Nguyễn Duy Minh-K59, hiện đang làm việc tại PC Hà Tĩnh<br>
+9. Yem Cheanich-K59, hiện đang làm việc tại VP Chính phủ Cambodia<br>
+10. Nguyễn Thái Dương-K58, hiện đang làm việc tại NPC<br>
+11. Hồ Văn Huy-K57, hiện đang làm việc tại Samsung<br>
+12. Lê Thanh Bình-K57, hiện đang làm việc tại Viện Năng Lượng<br>
+13. Nguyễn Việt Trung-K57, hiện đang làm việc tại TOJI Group
 
