@@ -17,7 +17,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Các công bố khoa học
 1.  Nguyễn Quốc Minh, Lê Thị Minh Châu, Nguyễn Đăng Tiến, Lê Minh Hiếu, “Nhận dạng tấm pin mặt trời bị lỗi dựa trên hình ảnh điện phát quang bằng deep learning”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, 08/2021. <a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
-2.	Nguyễn Quốc Minh, Lê Thị Minh Châu, “Nhận dạng sự cố trên lưới điện phân phối dựa trên trí tuệ nhân tạo”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, No. 9, pp 32-36, 09/2020.<a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
+2.	Nguyễn Quốc Minh, Lê Thị Minh Châu, “Nhận dạng sự cố trên lưới điện phân phối dựa trên trí tuệ nhân tạo”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, No. 9, pp 32-36, 09/2020.<a href="http://jst.udn.vn/volume/209/Nhan_dang_su_co_tren_luoi_dien_phan_phoi_dua_tren_tri_tue_nhan_tao-12150/12150"><i>link</i></a><br>
 3.	Nguyễn Quốc Minh, Lê Đức Tùng, “Đánh giá ảnh hưởng của các nguồn điện phân tán tới sự làm việc của hệ thống bảo vệ trên lưới điện phân phối”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, 2020.<a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
 4.	Lê Đức Tùng, Nguyễn Quốc Minh, “Phân tích, đánh giá và giảm thiểu sóng hài trong lưới điện khi có kết nối hệ thống pin năng lượng mặt trời”, Tạp chí nghiên cứu khoa học và công nghệ quân sự, Số 67, trang 85-96, 2020.<a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
 5.	M.Q. Nguyen and J.-C. Chiao, “Transmission Line Model of 3-coil WPT Systems”, IEEE International Wireless Symposium, Guangzhou, China, May. 19-22, 2019.<a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
