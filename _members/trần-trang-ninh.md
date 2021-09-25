@@ -2,7 +2,7 @@
 name: Trần Trang Ninh
 image: images/TranTrangNinh.jpg
 description: EE1-K63
-role: thanhvien8
+role: thanhvien9
 aliases:
 
 links:
