@@ -2,7 +2,7 @@
 name: Nguyễn Trần Minh Trang
 image: images/NguyenTranMinhTrang.jpg
 description: EE1-K63
-role: thanhvien7
+role: thanhvien8
 aliases:
 
 links:
