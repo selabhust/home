@@ -5,15 +5,54 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Các lĩnh vực nghiên cứu
+# <i class="fas fa-microscope">Các lĩnh vực nghiên cứu</i>
 
-1. Bảo vệ và điều khiển hệ thống điện <br>
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-2. Tự động hóa trong hệ thống điện <br>
+[See what we've published &nbsp;→](research)
+{:.center}
+{% endcapture %}
 
-3. Khoa học dữ liệu ứng dụng trong lưới điện thông minh <br>
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  headline="Our Research"
+  text=text
+%}
 
-4. Truyền tải điện không dây
+{% capture text %}
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[See our resources &nbsp;→](resources)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  headline="Our Resources"
+  text=text
+%}
+
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+[Meet our team &nbsp;→](team)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/selabfull.jpg"
+  link="team"
+  headline="Our Team"
+  text=text
+%}
 
 # <i class="fas fa-microscope"></i>Các công bố khoa học
 1.  Nguyễn Quốc Minh, Lê Thị Minh Châu, Nguyễn Đăng Tiến, Lê Minh Hiếu, “Nhận dạng tấm pin mặt trời bị lỗi dựa trên hình ảnh điện phát quang bằng deep learning”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, 08/2021. <a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
