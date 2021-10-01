@@ -5,21 +5,20 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope">Các lĩnh vực nghiên cứu</i>
+# <i class="fas fa-microscope"></i>Các lĩnh vực nghiên cứu
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-[See what we've published &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  headline="Our Research"
+  image="images/Picture2.png"
+  link=""
+  headline="Bảo vệ và điều khiển hệ thống điện"
   text=text
 %}
 
@@ -27,33 +26,45 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[See our resources &nbsp;→](resources)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  headline="Our Resources"
+  image="images/Picture3.jpg"
+  link=""
+  headline="Tự động hóa trong hệ thống điện"
   text=text
 %}
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-[Meet our team &nbsp;→](team)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/selabfull.jpg"
+  image="images/Picture4.png"
   link="team"
-  headline="Our Team"
+  headline="Khoa học dữ liệu ứng dụng trong lưới điện thông minh"
   text=text
 %}
 
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Picture5.jpg"
+  link="team"
+  headline="Truyền tải điện không dây"
+  text=text
+%}
+<br>
 # <i class="fas fa-microscope"></i>Các công bố khoa học
 1.  Nguyễn Quốc Minh, Lê Thị Minh Châu, Nguyễn Đăng Tiến, Lê Minh Hiếu, “Nhận dạng tấm pin mặt trời bị lỗi dựa trên hình ảnh điện phát quang bằng deep learning”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, 08/2021. <a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
 2.	Nguyễn Quốc Minh, Lê Thị Minh Châu, “Nhận dạng sự cố trên lưới điện phân phối dựa trên trí tuệ nhân tạo”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, No. 9, pp 32-36, 09/2020.<a href="http://jst.udn.vn/volume/209/Nhan_dang_su_co_tren_luoi_dien_phan_phoi_dua_tren_tri_tue_nhan_tao-12150/12150"><i>link</i></a><br>
