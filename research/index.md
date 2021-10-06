@@ -66,7 +66,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 <br>
 # <i class="fas fa-microscope"></i>Các công bố khoa học
-1.  1.	Nguyễn Quốc Minh, Nguyễn Trần Minh Trang, Nguyễn Tiến Thành, Đàm Tá Hải, “Phát hiện trạng thái hệ thống điện bị tấn công an ninh mạng dựa trên machine learning”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 9, 09/2021.</a><br>
+1.  Nguyễn Quốc Minh, Nguyễn Trần Minh Trang, Nguyễn Tiến Thành, Đàm Tá Hải, “Phát hiện trạng thái hệ thống điện bị tấn công an ninh mạng dựa trên machine learning”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 9, 09/2021.</a><br>
 2.  Nguyễn Quốc Minh, Lê Thị Minh Châu, Nguyễn Đăng Tiến, Lê Minh Hiếu, “Nhận dạng tấm pin mặt trời bị lỗi dựa trên hình ảnh điện phát quang bằng deep learning”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, 08/2021. <a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
 3.	Nguyễn Quốc Minh, Lê Thị Minh Châu, “Nhận dạng sự cố trên lưới điện phân phối dựa trên trí tuệ nhân tạo”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, No. 9, pp 32-36, 09/2020.<a href="http://jst.udn.vn/volume/209/Nhan_dang_su_co_tren_luoi_dien_phan_phoi_dua_tren_tri_tue_nhan_tao-12150/12150"><i>link</i></a><br>
 4.	Nguyễn Quốc Minh, Lê Đức Tùng, “Đánh giá ảnh hưởng của các nguồn điện phân tán tới sự làm việc của hệ thống bảo vệ trên lưới điện phân phối”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, 2020.<a href="http://jst.tnu.edu.vn/jst/article/view/4511"><i>link</i></a><br>
