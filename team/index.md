@@ -22,7 +22,7 @@ nav:
   filters="role: truonglab"
 %}
 
-{%
+<!-- {%
   include list.html
   data="members"
   component="portrait"
@@ -33,7 +33,7 @@ nav:
   data="members"
   component="portrait"
   filters="role: thanhvien2"
-%}
+%} -->
 {%
   include list.html
   data="members"
