@@ -1,6 +1,6 @@
 ---
 name: Đỗ Đức Hùng
-image: images/doduchung.jpg
+image: images/doduchung.png
 description: EE1-K64
 role: thanhvien19
 aliases:
