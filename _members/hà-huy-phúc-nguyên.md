@@ -2,7 +2,7 @@
 name: Hà Huy Phúc Nguyên
 image: images/HaHuyPhucNguyen.jpg
 description: CTTN Toán tin-K65
-role: thanhvien20
+role: thanhvien21
 group: alum
 aliases:
   - Tien-Nguyen Dang
