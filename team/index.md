@@ -153,6 +153,12 @@ nav:
   component="portrait"
   filters="role: thanhvien22"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien23"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên                          
