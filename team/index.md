@@ -187,7 +187,7 @@ nav:
 
 # <i class="fas fa-users"></i> Cựu thành viên                          
 1. Hoàng Nguyên Khánh-K61, hiện đang làm việc tại A0<br>
-2. Đỗ Đức Anh-K61, hiện đang làm việc tại EDH<br>
+2. Đỗ Đức Anh-K61, hiện đang làm việc tại Á Châu<br>
 3. PhangPhen Sopanharithychey-K61, hiện đang làm việc tại Điều độ HTĐ Cambodia<br>
 4. Vũ Thị Hòa-K60, hiện đang làm việc tại A1<br>
 5. Vũ Hoài Giang-K60, hiện đang làm việc tại A0<br>
