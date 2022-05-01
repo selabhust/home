@@ -12,7 +12,7 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
-image1="images/funding21.jpg" link1="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
+image1="images/funding1.jpg" link1="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
 
 image2="images/funding2.jpg" link2="/images/funding2.jpg" tooltip2="Tham gia SV NCKH 2020"
 
