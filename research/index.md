@@ -66,7 +66,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {%
   include feature.html
-  image="images/Picture6.jpg"
+  image="images/Picture6.png"
   link="team"
   headline="Tích hợp các nguồn năng lượng mới và tái tạo"
   text=text
