@@ -66,7 +66,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/Picture7.png"
+  image="images/Picture6.png"
   link="team"
   headline="Truyền tải điện không dây"
   text=text
