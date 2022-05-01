@@ -64,6 +64,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   headline="Truyền tải điện không dây"
   text=text
 %}
+{%
+  include feature.html
+  image="images/Picture5.jpg"
+  link="team"
+  headline="Tích hợp các nguồn năng lượng mới và tái tạo"
+  text=text
+%}
 <br>
 # <i class="fas fa-microscope"></i>Các công bố khoa học
 1.  Nguyễn Quốc Minh, Nguyễn Trần Minh Trang, Nguyễn Tiến Thành, Đàm Tá Hải, “Phát hiện trạng thái hệ thống điện bị tấn công an ninh mạng dựa trên machine learning”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 9, 09/2021.<br>
