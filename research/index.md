@@ -58,7 +58,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {% endcapture %}
 {%
   include feature.html
-  image="images/Picture6.pnj"
+  image="images/Picture5.pnj"
   link="team"
   headline="Tích hợp các nguồn năng lượng mới và tái tạo"
   text=text
