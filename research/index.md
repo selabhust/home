@@ -58,7 +58,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {% endcapture %}
 {%
   include feature.html
-  image="images/Picture5.pnj"
+  image="images/Picture6.pnj"
   link="team"
   headline="Tích hợp các nguồn năng lượng mới và tái tạo"
   text=text
@@ -66,7 +66,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/Picture6.png"
+  image="images/Picture7.png"
   link="team"
   headline="Truyền tải điện không dây"
   text=text
