@@ -15,7 +15,7 @@ nav:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bên cạnh các kiến thức chuyên ngành, các bạn sinh viên đại học và học viên sau đại học khi tham gia Smart Energy Lab sẽ được trang bị các kỹ năng liên quan đến lập trình, sử dụng phần mềm, thuyết trình, làm việc nhóm, tiếng anh, mở rộng mạng lưới cơ hội thực tập và việc làm với các đối tác công nghiệp.<br>
 {% include gallery.html style="square"
 
-image1="images/funding1.jpg" link1="images/funding21.jpg" tooltip1="TUYỂN THÀNH VIÊN"
+image1="images/LogoLab.jpg" link1="images/LogoLab.jpg" tooltip1="TUYỂN THÀNH VIÊN"
  %}
 
 {% include section.html %}
