@@ -52,12 +52,12 @@ nav:
   component="portrait"
   filters="role: thanhvien5"
 %}
-{%
+<!-- {%
   include list.html
   data="members"
   component="portrait"
   filters="role: thanhvien6"
-%}
+%} -->
 {%
   include list.html
   data="members"
