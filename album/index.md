@@ -11,13 +11,14 @@ nav:
 
 {:.center}
 {% include gallery.html style="square"
+
 image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip15="Liên hoan lab"
 
 image2="images/funding20.jpg" link2="images/funding20.jpg" tooltip12="Tham quan trạm biến áp 220KV Xuân Mai"
 
 image3="images/funding21.jpg" link3="images/funding21.jpg" tooltip13="Liên hoan Lab"
 
-image15="images/funding1.jpg" link15="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
+<!-- image15="images/funding1.jpg" link15="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal" -->
 
 image16="images/funding2.jpg" link16="/images/funding2.jpg" tooltip2="Tham gia SV NCKH 2020"
 
