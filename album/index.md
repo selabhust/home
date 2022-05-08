@@ -44,11 +44,11 @@ image13="images/funding16.jpg" link13="images/funding16.jpg" tooltip13="Chúc t�
 
 image14="images/funding14.jpg" link14="images/funding14.jpg" tooltip14="Giao lưu văn nghệ trong lab"
 
-image15="images/funding1.jpg" link13="/images/funding1.jpg" tooltip15="Liên hoan lab"
+<!-- image15="images/funding1.jpg" link13="/images/funding1.jpg" tooltip15="Liên hoan lab"
 
 image16="images/funding20.jpg" link16="images/funding20.jpg" tooltip12="Tham quan trạm biến áp 220KV Xuân Mai"
 
-image17="images/funding21.jpg" link17="images/funding21.jpg" tooltip13="Liên hoan Lab"
+image17="images/funding21.jpg" link17="images/funding21.jpg" tooltip13="Liên hoan Lab" -->
 
 
 
