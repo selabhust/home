@@ -11,17 +11,17 @@ nav:
 
 {:.center}
 {% include gallery.html style="square"
-image15="images/funding1.jpg" link13="/images/funding1.jpg" tooltip15="Liên hoan lab"
+image15="images/funding1.jpg" link1="/images/funding1.jpg" tooltip15="Liên hoan lab"
 
-image16="images/funding20.jpg" link16="images/funding20.jpg" tooltip12="Tham quan trạm biến áp 220KV Xuân Mai"
+image16="images/funding20.jpg" link2="images/funding20.jpg" tooltip12="Tham quan trạm biến áp 220KV Xuân Mai"
 
-image17="images/funding21.jpg" link17="images/funding21.jpg" tooltip13="Liên hoan Lab"
+image17="images/funding21.jpg" link3="images/funding21.jpg" tooltip13="Liên hoan Lab"
 
-image1="images/funding1.jpg" link1="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
+image1="images/funding1.jpg" link15="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
 
-image2="images/funding2.jpg" link2="/images/funding2.jpg" tooltip2="Tham gia SV NCKH 2020"
+image2="images/funding2.jpg" link16="/images/funding2.jpg" tooltip2="Tham gia SV NCKH 2020"
 
-image3="images/funding3.jpg" link3="/images/funding3.jpg" tooltip3="Tham gia sự kiện SV NCKH NLTT 2020"
+image3="images/funding3.jpg" link17="/images/funding3.jpg" tooltip3="Tham gia sự kiện SV NCKH NLTT 2020"
 
 image4="images/funding11.jpg" link4="images/funding11.jpg" tooltip4="Hỗ trợ chuyển giao công nghệ"
 
@@ -34,6 +34,7 @@ image7="images/funding4.jpg" link7="/images/funding4.jpg" tooltip7="SV NCKH NLTT
 image8="images/funding8.jpg" link8="images/funding8.jpg" tooltip8="Đi thực tế"
 
 image9="images/funding17.jpg" link9="images/funding17.jpg" tooltip9="Bảo vệ đề tài tại SV NCKH NLTT 2020"
+
 image10="images/funding6.jpg" link10="images/funding6.jpg" tooltip10="Đi thực tế"
 
 image11="images/funding18.jpg" link11="images/funding18.jpg" tooltip11="SV NCKH NLTT 2020"
@@ -43,13 +44,6 @@ image12="images/funding15.jpg" link12="images/funding15.jpg" tooltip12="SV NCKH 
 image13="images/funding16.jpg" link13="images/funding16.jpg" tooltip13="Chúc tết Tân Sửu 2021"
 
 image14="images/funding14.jpg" link14="images/funding14.jpg" tooltip14="Giao lưu văn nghệ trong lab"
-
-<!-- image15="images/funding1.jpg" link13="/images/funding1.jpg" tooltip15="Liên hoan lab"
-
-image16="images/funding20.jpg" link16="images/funding20.jpg" tooltip12="Tham quan trạm biến áp 220KV Xuân Mai"
-
-image17="images/funding21.jpg" link17="images/funding21.jpg" tooltip13="Liên hoan Lab" -->
-
 
 
  %}
