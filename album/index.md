@@ -12,8 +12,6 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
-image16="images/funding31.jpg" link1="images/funding31.jpg" tooltip1="Student Tour tại A0"
-
 image1="images/funding20.jpg" link1="images/funding20.jpg" tooltip1="Tham quan trạm biến áp 220KV Xuân Mai"
 
 image2="images/funding21.jpg" link2="images/funding21.jpg" tooltip2="Liên hoan Lab 2022"
@@ -43,6 +41,10 @@ image13="images/funding14.jpg" link13="images/funding14.jpg" tooltip13="Giao lư
 image14="images/funding2.jpg" link14="images/funding2.jpg" tooltip14="Hội nghị SV NCKH 2020"
 
 image15="images/funding3.jpg" link15="images/funding3.jpg" tooltip15="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
+
+image16="images/funding31.jpg" link1="images/funding31.jpg" tooltip1="Student Tour tại A0"
+
+image17="images/funding32.jpg" link1="images/funding32.jpg" tooltip1="Tham quan Nhà máy thủy điện Hòa Bình"
 
  %}
 
