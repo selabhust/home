@@ -13,6 +13,7 @@ nav:
 {% include gallery.html style="square"
 
 image1="images/funding31.jpg" link1="images/funding31.jpg" tooltip1="Student Tour tại A0"
+
 image2="images/funding20.jpg" link1="images/funding20.jpg" tooltip1="Tham quan trạm biến áp 220KV Xuân Mai"
 
 image3="images/funding21.jpg" link2="images/funding21.jpg" tooltip2="Liên hoan Lab 2022"
