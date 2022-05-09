@@ -12,7 +12,7 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
-<!-- image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Liên hoan lab" -->
+<!-- image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal" -->
 
 image1="images/funding20.jpg" link1="images/funding20.jpg" tooltip1="Tham quan trạm biến áp 220KV Xuân Mai"
 
