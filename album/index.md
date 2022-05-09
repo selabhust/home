@@ -12,9 +12,9 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
-image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Tham quan trạm biến áp 220KV Xuân Mai" 
+image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal" 
 
-image1="images/funding20.jpg" link1="images/funding20.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
+image1="images/funding20.jpg" link1="images/funding20.jpg" tooltip1="Tham quan trạm biến áp 220KV Xuân Mai"
 
 image2="images/funding21.jpg" link2="images/funding21.jpg" tooltip2="Liên hoan Lab 2022"
 
@@ -42,9 +42,9 @@ image12="images/funding16.jpg" link12="images/funding16.jpg" tooltip12="Chúc t�
 
 image13="images/funding14.jpg" link13="images/funding14.jpg" tooltip13="Giao lưu văn nghệ trong lab"
 
-image14="images/funding2.jpg" link14="images/funding2.jpg" tooltip14="Tham quan trạm biến áp 220KV Xuân Mai"
+image14="images/funding2.jpg" link14="images/funding2.jpg" tooltip14="Hội nghị SV NCKH 2020"
 
-image15="images/funding3.jpg" link15="images/funding3.jpg" tooltip15="Tham quan trạm biến áp 220KV Xuân Mai"
+image15="images/funding3.jpg" link15="images/funding3.jpg" tooltip15="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
 
  %}
 
