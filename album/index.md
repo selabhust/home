@@ -42,9 +42,9 @@ image14="images/funding2.jpg" link14="images/funding2.jpg" tooltip14="Hội ngh�
 
 image15="images/funding3.jpg" link15="images/funding3.jpg" tooltip15="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal"
 
-image16="images/funding31.jpg" link1="images/funding31.jpg" tooltip1="Student Tour tại A0"
+image16="images/funding31.jpg" link1="images/funding31.jpg" tooltip16="Student Tour tại A0"
 
-image17="images/funding32.jpg" link1="images/funding32.jpg" tooltip1="Tham quan Nhà máy thủy điện Hòa Bình"
+image17="images/funding32.jpg" link1="images/funding32.jpg" tooltip17="Tham quan Nhà máy thủy điện Hòa Bình"
 
  %}
 
