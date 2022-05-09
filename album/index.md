@@ -12,13 +12,13 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
-<!-- image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal" -->
+image1="images/funding1.jpg" link1="/images/funding1.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal" 
 
 image1="images/funding20.jpg" link1="images/funding20.jpg" tooltip1="Tham quan trạm biến áp 220KV Xuân Mai"
 
 image2="images/funding21.jpg" link2="images/funding21.jpg" tooltip2="Liên hoan Lab 2022"
 
-<!-- image15="images/funding1.jpg" link15="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal" -->
+ image15="images/funding1.jpg" link15="images/funding21.jpg" tooltip1="Khóa đào tạo cho NPC về sử dụng phần mềm Sincal" 
 
 image3="images/funding11.jpg" link3="images/funding11.jpg" tooltip3="Hỗ trợ chuyển giao công nghệ"
 
