@@ -44,7 +44,7 @@ image13="images/funding14.jpg" link13="images/funding14.jpg" tooltip13="Giao lư
 
 image14="images/funding2.jpg" link14="/images/funding2.jpg" tooltip14="Tham gia SV NCKH 2020"
 
-image15="images/funding3.jpg" link15="/images/funding3.jpg" tooltip15="Tham gia sự kiện SV NCKH NLTT 2020"
+image15="images/funding3.jpg" link15="/images/funding3.jpg" tooltip15="Tham quan trạm biến áp 220KV Xuân Mai"
 
  %}
 
