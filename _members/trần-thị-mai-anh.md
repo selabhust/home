@@ -1,7 +1,7 @@
 ---
 name: Trần Thị Mai Anh
 image: images/TranThiMaiAnh.jpg
-description: EM1-K64
+description: EM1-K65
 role: thanhvien24
 aliases:
 
@@ -11,6 +11,6 @@ links:
   #twitter: uptonogoode
 ---
 
-Học chuyên ngành Kỹ thuật điện.
+Học chuyên ngành Kinh tế công nghiệp.
 <br>
-Khoá 64 Trường Đại học Bách Khoa Hà Nội.
+Khoá 65 Trường Đại học Bách Khoa Hà Nội.
