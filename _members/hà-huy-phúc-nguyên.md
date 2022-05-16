@@ -4,12 +4,12 @@ image: images/HaHuyPhucNguyen.jpg
 description: CTTN Toán tin-K65
 role: thanhvien23
 group: alum
-aliases:
-  - Tien-Nguyen Dang
+<!-- aliases:
+  - Tien-Nguyen Dang -->
 links:
   #home-page: https://fb.com/tienkira1
-  linkedin: tiennguyendang
-  email: tien.nd174260@sis.hust.edu.vn
+<!--   linkedin: tiennguyendang -->
+  email: nguyen.hhp200446@sis.hust.edu.vn
   github: monkiravn
 ---
 
