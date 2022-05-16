@@ -7,7 +7,7 @@ aliases:
 
 links:
   linkedin: #
-  email: hue.lx191517@sis.hust.edu.vn
+  email: anh.ttm202840@sis.hust.edu.vn
   #twitter: uptonogoode
 ---
 
