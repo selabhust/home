@@ -8,7 +8,7 @@ aliases:
 links:
   #home-page: https://fb.com/heogau3110btp
   linkedin: #
-  email: nguyen.hhp200446@sis.hust.edu.vn
+  email: khanh.hn162132@sis.hust.edu.vn
   github: #
   #twitter: uptonogoode
 ---
