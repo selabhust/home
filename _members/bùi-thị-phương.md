@@ -3,7 +3,6 @@ name: Bùi Thị Phương
 image: images/BuiThiPhuong.jpg
 description: Trưởng Lab
 role:  truonglab
-
 aliases:
 
 links:
