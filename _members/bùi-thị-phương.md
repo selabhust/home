@@ -12,7 +12,6 @@ links:
   email: phuong.bt174121@sis.hust.edu.vn
   github: #
   #twitter: uptonogoode
-  
 ---
 
 Học chuyên ngành Kỹ thuật điện.
