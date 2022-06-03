@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Đỗ Đức Anh
 image: images/doducanh.jpg
 description: EE1-K61
@@ -16,5 +16,5 @@ links:
 Học chuyên ngành Kỹ thuật điện.
 
 Khoá 61 Trường Đại học Bách Khoa Hà Nội.
-
+ -->
   
