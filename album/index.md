@@ -12,6 +12,8 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
+image18="images/C107062022.jpg" link18="images/C107062022.jpg" tooltip18="Hội nghị SVNCKH khoa Điện 2022"
+
 image1="images/funding31.jpg" link1="images/funding31.jpg" tooltip1="Student Tour tại A0"
 
 image2="images/funding32.jpg" link2="images/funding32.jpg" tooltip2="Tham quan Nhà máy thủy điện Hòa Bình"
