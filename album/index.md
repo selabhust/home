@@ -11,7 +11,7 @@ nav:
 
 {:.center}
 {% include gallery.html style="square"
-https://drive.google.com/drive/u/0/folders/1haKzSpaUoCsKTvSKaeE8iNB0jU5GvC18 <br>
+
 image1="images/C107062022.jpg" link1="images/C107062022.jpg" tooltip1="Hội nghị SVNCKH khoa Điện 2022"
 
 image2="images/funding31.jpg" link2="images/funding31.jpg" tooltip2="Student Tour tại A0"
