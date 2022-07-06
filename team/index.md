@@ -242,7 +242,13 @@ nav:
   data="members"
   component="portrait"
   filters="role: thanhvien36"
-%} -->
+%} 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien37"
+%}-->
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
