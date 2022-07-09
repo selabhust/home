@@ -2,7 +2,7 @@
 name: Hồ Minh Quân
 image: images/HoMinhQuan.jpg
 description: EE1-K65
-role: thanhvien26
+role: thanhvien27
 aliases:
 
 links:
