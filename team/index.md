@@ -9,12 +9,7 @@ nav:
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: chunhiem"
-%}
+
 {%
   include list.html
   data="members"
