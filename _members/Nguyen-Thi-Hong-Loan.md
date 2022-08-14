@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Thị Hồng Loan
 image: images/NguyenThiHongLoan.jpg
-description: SEM -K66
+description: EM1-K66
 role: thanhvien39
 aliases:
 
