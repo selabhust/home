@@ -14,7 +14,6 @@ nav:
 {:.center}
 
 {%
-  include feature.html
   image="images/funding31.jpg"
   link="images/funding31.jpg"
 
