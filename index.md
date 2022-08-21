@@ -24,7 +24,7 @@ Xin chào các bạn đã ghé thăm website của Smart Energy Lab, Đại họ
 <a href="https://forms.office.com/pages/responsepage.aspx?id=n7jxBugHT0a0COwbRXA_Me5oFMimtIdItIHOFpIdOXtUMzNQSEhMQUFYNUFKOEMxV1NQS1ZGVEVUTy4u"><i>"JOIN US"</i></a><br>
 {% include gallery.html style="square"
 
-image1="images/funding33.jpg" link1="images/funding33.jpg" tooltip1="TUYỂN THÀNH VIÊN"
+image1="images/funding31.jpg" link1="images/funding31.jpg"
  %}
 {% include section.html %}
 
