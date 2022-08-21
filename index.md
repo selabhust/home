@@ -22,6 +22,9 @@ Xin chào các bạn đã ghé thăm website của Smart Energy Lab, Đại họ
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bên cạnh các kiến thức chuyên ngành, các bạn sinh viên đại học và học viên sau đại học khi tham gia Smart Energy Lab sẽ được trang bị các kỹ năng liên quan đến lập trình, sử dụng phần mềm, thuyết trình, làm việc nhóm, tiếng anh, mở rộng mạng lưới cơ hội thực tập và việc làm với các đối tác công nghiệp.<br>
 
 <a href="https://forms.office.com/pages/responsepage.aspx?id=n7jxBugHT0a0COwbRXA_Me5oFMimtIdItIHOFpIdOXtUMzNQSEhMQUFYNUFKOEMxV1NQS1ZGVEVUTy4u"><i>"JOIN US"</i></a><br>
+{% include gallery.html style="square"
 
+image1="images/funding33.jpg" link1="images/funding33.jpg" tooltip1="TUYỂN THÀNH VIÊN"
+ %}
 {% include section.html %}
 
