@@ -259,6 +259,7 @@ nav:
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
+
 ĐẠI HỌC <br>
 1. Trần Ngọc Minh - K62, hiện đang làm việc tại ETC1<br>
 2. Hoàng Nguyên Khánh-K61, hiện đang làm việc tại A0<br>
@@ -287,4 +288,3 @@ SAU ĐẠI HỌC <br>
 10. Hồ Viết Huy - 2017b, hiện đang làm việc tại NPC <br>
 11. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại NPC <br>
 12. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
-
