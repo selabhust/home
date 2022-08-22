@@ -259,6 +259,7 @@ nav:
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
+ĐẠI HỌC
 1. Trần Ngọc Minh - K62, hiện đang làm việc tại ETC1<br>
 2. Hoàng Nguyên Khánh-K61, hiện đang làm việc tại A0<br>
 3. Đỗ Đức Anh-K61, hiện đang làm việc tại Á Châu<br>
@@ -273,4 +274,17 @@ nav:
 12. Hồ Văn Huy-K57, hiện đang làm việc tại Samsung<br>
 13. Lê Thanh Bình-K57, hiện đang làm việc tại Viện Năng Lượng<br>
 14. Nguyễn Việt Trung-K57, hiện đang làm việc tại TOJI Group
+SAU ĐẠI HỌC
+1. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+2. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+3. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+4. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
+5. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
+6. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại PTC1 <br>
+7. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
+8. Pech Dida - 2018b, hiện đang làm việc tại Điều độ HTĐ Cambodia <br>
+9. Chu Thế Hùng - 2017b, hiện đang làm việc tại NPC <br>
+10. Hồ Viết Huy - 2017b, hiện đang làm việc tại NPC <br>
+11. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại NPC <br>
+12. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br>
 
