@@ -275,6 +275,7 @@ nav:
 12. Hồ Văn Huy-K57, hiện đang làm việc tại Samsung<br>
 13. Lê Thanh Bình-K57, hiện đang làm việc tại Viện Năng Lượng<br>
 14. Nguyễn Việt Trung-K57, hiện đang làm việc tại TOJI Group <br>
+
 SAU ĐẠI HỌC <br>
 1. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
 2. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
