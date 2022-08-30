@@ -277,15 +277,17 @@ nav:
 14. Nguyễn Việt Trung - K57, hiện đang làm việc tại TOJI Group <br>
 
 SAU ĐẠI HỌC <br>
-1. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-2. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-3. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-4. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
-5. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
-6. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại PTC1 <br>
-7. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
-8. Pech Dida - 2018b, hiện đang làm việc tại Điều độ HTĐ Cambodia <br>
-9. Chu Thế Hùng - 2017b, hiện đang làm việc tại NPC <br>
-10. Hồ Viết Huy - 2017b, hiện đang làm việc tại NPC <br>
-11. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại NPC <br>
-12. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
+1. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại A0 <br>
+2. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
+3. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+4. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+5. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+6. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
+7. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
+8. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại PTC1 <br>
+9. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
+10. Pech Dida - 2018b, hiện đang làm việc tại Điều độ HTĐ Cambodia <br>
+11. Chu Thế Hùng - 2017b, hiện đang làm việc tại NPC <br>
+12. Hồ Viết Huy - 2017b, hiện đang làm việc tại NPC <br>
+13. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại NPC <br>
+14. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
