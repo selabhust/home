@@ -51,6 +51,7 @@ image19="images/funding3.jpg" link19="images/funding3.jpg" tooltip19="Khóa đà
 
 image20="images/Phả_lại.jpg" link20="images/Phả_Lại.jpg" tooltip20="Tham quan nhà máy Nhiệt điện Phả Lại"
 
+
  %}
 
 {% include section.html %}
