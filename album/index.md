@@ -51,6 +51,8 @@ image19="images/funding3.jpg" link19="images/funding3.jpg" tooltip19="Khóa đà
 
 image20="images/Phả_Lại.jpg" link20="images/Phả_Lại.jpg" tooltip20="Tham quan nhà máy Nhiệt điện Phả Lại"
 
+image21="images/Bao ve DATN K62.jpg" link21="images/Bao ve DATN K62.jpg" tooltip21="K62 tốt nghiệp"
+
 
 
  %}
