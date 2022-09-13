@@ -24,10 +24,11 @@ Quá trình đào tạo <br>
 - Thạc sĩ, chuyên ngành kỹ thuật điện, Đại học Bách Khoa Hà Nội, 2009 <br>
 - Kỹ sư, chuyên ngành hệ thống điện, Đại học Bách Khoa Hà Nội, 2007 <br>
 Các môn học giảng dạy <br>
-1.	Rơle bảo vệ trong hệ thống điện <br>
-2.	SCADA trong hệ thống điện <br>
-3.	Nhập môn ngành điện <br>
-4.	Kỹ năng viết và thuyết trình tiếng Anh <br>
+1. Rơle bảo vệ trong hệ thống điện <br>
+2. SCADA trong hệ thống điện <br>
+3. Nhập môn ngành điện <br>
+4. Kỹ năng viết và thuyết trình tiếng Anh <br>
+
 <a href="https://forms.office.com/pages/responsepage.aspx?id=n7jxBugHT0a0COwbRXA_Me5oFMimtIdItIHOFpIdOXtUMzNQSEhMQUFYNUFKOEMxV1NQS1ZGVEVUTy4u"><i>"JOIN US"</i></a><br>
 
 {% include section.html %}
