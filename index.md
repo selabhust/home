@@ -20,10 +20,12 @@ Xin chào các bạn đã ghé thăm website của Smart Energy Lab, Đại họ
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bên cạnh các kiến thức chuyên ngành, các bạn sinh viên đại học và học viên sau đại học khi tham gia Smart Energy Lab sẽ được trang bị các kỹ năng liên quan đến lập trình, sử dụng phần mềm, thuyết trình, làm việc nhóm, tiếng anh, mở rộng mạng lưới cơ hội thực tập và việc làm với các đối tác công nghiệp.<br>
 
 Chủ nhiệm Lab: TS. Nguyễn Quốc Minh <br>
+
 Quá trình đào tạo <br>
 - Tiến sĩ, chuyên ngành kỹ thuật điện, The University of Texas at Arlington, Texas, USA, 2016 <br>
 - Thạc sĩ, chuyên ngành kỹ thuật điện, Đại học Bách Khoa Hà Nội, 2009 <br>
 - Kỹ sư, chuyên ngành hệ thống điện, Đại học Bách Khoa Hà Nội, 2007 <br>
+
 Các môn học giảng dạy <br>
 - Rơle bảo vệ trong hệ thống điện <br>
 - SCADA trong hệ thống điện <br>
