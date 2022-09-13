@@ -23,6 +23,7 @@ Quá trình đào tạo <br>
 - Tiến sĩ, chuyên ngành kỹ thuật điện, The University of Texas at Arlington, Texas, USA, 2016 <br>
 - Thạc sĩ, chuyên ngành kỹ thuật điện, Đại học Bách Khoa Hà Nội, 2009 <br>
 - Kỹ sư, chuyên ngành hệ thống điện, Đại học Bách Khoa Hà Nội, 2007 <br>
+
 Các môn học giảng dạy <br>
 1. Rơle bảo vệ trong hệ thống điện <br>
 2. SCADA trong hệ thống điện <br>
