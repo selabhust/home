@@ -15,3 +15,13 @@ links:
 Học chuyên ngành Kỹ thuật điện.
 
 Khoá 64 Trường Đại học Bách Khoa Hà Nội.
+
+{% include section.html %}
+
+{:.center}
+{% include gallery.html style="square"
+image1="images/funding34.jpg" link1="images/funding34.jpg" tooltip1="Ăn trưa tại lab"
+
+ %}
+
+{% include section.html %}
