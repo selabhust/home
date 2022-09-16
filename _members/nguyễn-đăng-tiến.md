@@ -23,12 +23,4 @@ Hướng nghiên cứu:
 
   - Xử lý ảnh y sinh.
   
-{% include section.html %}
 
-{:.center}
-{% include gallery.html style="square"
-image1="images/funding34.jpg" link1="images/funding34.jpg" tooltip1="Ăn trưa tại lab"
-
- %}
-
-{% include section.html %}
