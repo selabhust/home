@@ -19,7 +19,7 @@ Khoá 64 Trường Đại học Bách Khoa Hà Nội.
 {% include section.html %}
 
 {:.center}
-{% include gallery.html style="square"
+{% include gallery.html 
 
 image1="images/do-thi-dieu-mai-CV.jpg" link1="images/do-thi-dieu-mai-CV.jpg"
  %}
