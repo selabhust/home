@@ -20,7 +20,7 @@ Khoá 64 Trường Đại học Bách Khoa Hà Nội.
 
 {:.center}
 {% include gallery.html style="square"
-image1="images/funding34.jpg" link1="images/funding34.jpg" tooltip1="Ăn trưa tại lab"
+image="images/do-thi-dieu-mai-CV.jpg" link="images/do-thi-dieu-mai-CV.jpg" tooltip="Here is my CV"
 
  %}
 
