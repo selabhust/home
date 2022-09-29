@@ -268,7 +268,13 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien6"
+  filters="role: tranngocminh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: hoangnguyenkhanh"
 %}
 1. Trần Ngọc Minh - K62, hiện đang làm việc tại ETC1<br>
 2. Hoàng Nguyên Khánh - K61, hiện đang làm việc tại A0<br>
