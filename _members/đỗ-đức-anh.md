@@ -1,8 +1,8 @@
 
 name: Đỗ Đức Anh
 image: images/doducanh.jpg
-description: EE1-K61
-role: thanhvien1
+description: K61, hiện đang làm việc tại Á Châu
+role: doducanhK61
 group: alum
 aliases:
   - Tien-Nguyen Dang
