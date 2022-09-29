@@ -1,7 +1,7 @@
 ---
 name: Hoàng Nguyên Khánh
 image: images/HoangNguyenKhanh.jpg
-description: CTTT Hệ thống điện -K61
+description: K61, hiện đang làm việc tại A0
 role: thanhvien2
 aliases:
 
