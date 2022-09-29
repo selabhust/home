@@ -2,7 +2,7 @@
 name: Hoàng Nguyên Khánh
 image: images/HoangNguyenKhanh.jpg
 description: K61, hiện đang làm việc tại A0
-role: thanhvien2
+role: hoangnguyenkhanh
 aliases:
 
 links:
