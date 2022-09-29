@@ -262,6 +262,8 @@ nav:
 
 ĐẠI HỌC <br>
 {% include section.html %}
+
+
 {%
   include list.html
   data="members"
