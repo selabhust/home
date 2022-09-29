@@ -280,6 +280,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: phangphen"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: vuthihoa"
 %}
 1. Trần Ngọc Minh - K62, hiện đang làm việc tại ETC1<br>
