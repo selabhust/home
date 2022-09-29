@@ -261,6 +261,12 @@ nav:
 # <i class="fas fa-users"></i> Cựu thành viên    
 
 ĐẠI HỌC <br>
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: thanhvien6"
+%}
 1. Trần Ngọc Minh - K62, hiện đang làm việc tại ETC1<br>
 2. Hoàng Nguyên Khánh - K61, hiện đang làm việc tại A0<br>
 3. Đỗ Đức Anh - K61, hiện đang làm việc tại Á Châu<br>
