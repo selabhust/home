@@ -294,6 +294,12 @@ nav:
   component="portrait"
   filters="role: vuthihoa"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: vuhoaigiang"
+%}
 1. Trần Ngọc Minh - K62, hiện đang làm việc tại ETC1<br>
 2. Hoàng Nguyên Khánh - K61, hiện đang làm việc tại A0<br>
 3. Đỗ Đức Anh - K61, hiện đang làm việc tại Á Châu<br>
