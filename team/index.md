@@ -261,6 +261,7 @@ nav:
 # <i class="fas fa-users"></i> Cựu thành viên    
 
 ĐẠI HỌC <br>
+{% include section.html %}
 {%
   include list.html
   data="members"
