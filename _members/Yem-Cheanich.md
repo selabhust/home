@@ -1,6 +1,6 @@
 ---
 name: Yem Cheanich
-image: images/YemCheanich.jpg
+image: images/YemCheanic.jpg
 description: K59, hiện đang làm việc tại VP Chính phủ Cambodia
 role: yemcheanich
 aliases:
