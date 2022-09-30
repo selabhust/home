@@ -323,20 +323,31 @@ nav:
   component="portrait"
   filters="role: yemcheanich"
 %}
-1. Trần Ngọc Minh - K62, hiện đang làm việc tại ETC1<br>
-2. Hoàng Nguyên Khánh - K61, hiện đang làm việc tại A0<br>
-3. Đỗ Đức Anh - K61, hiện đang làm việc tại Á Châu<br>
-4. PhangPhen Sopanharithychey-K61, hiện đang làm việc tại Điều độ HTĐ Cambodia<br>
-5. Vũ Thị Hòa - K60, hiện đang làm việc tại A1<br>
-6. Vũ Hoài Giang - K60, hiện đang làm việc tại A0<br>
-7. Nguyễn Việt Dũng - K60, hiện đang làm việc tại A0<br>
-8. Võ Tá Đông - K59, hiện đang làm việc tại Toshiba<br>
-9. Nguyễn Duy Minh - K59, hiện đang làm việc tại PC Hà Tĩnh<br>
-10. Yem Cheanich - K59, hiện đang làm việc tại VP Chính phủ Cambodia<br>
-11. Nguyễn Thái Dương - K58, hiện đang làm việc tại NPC<br>
-12. Hồ Văn Huy - K57, hiện đang làm việc tại Samsung<br>
-13. Lê Thanh Bình - K57, hiện đang làm việc tại Viện Năng Lượng<br>
-14. Nguyễn Việt Trung - K57, hiện đang làm việc tại TOJI Group <br>
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenthaiduong"
+ %}
+ {%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: hovanhuy"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: lethanhbinh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenviettrung"
+%}
+
 
 SAU ĐẠI HỌC <br>
 1. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại A0 <br>
