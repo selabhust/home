@@ -11,6 +11,7 @@ nav:
 
 {:.center}
 {% include gallery.html style="square"
+
 image22="images/anh lab 09.10.2022 2.jpg" link22="images/anh lab 09.10.2022 2.jpg" tooltip22="Gặp mặt đầu năm học mới 09.10.2022"
 
 image1="images/funding34.jpg" link1="images/funding34.jpg" tooltip1="Ăn trưa tại lab"
