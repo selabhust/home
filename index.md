@@ -12,7 +12,7 @@ nav:
 {:.center}
 # SMART ENERGY LABORATORY
 {:.center}
-{% include gallery.html style="square"
+{% include gallery.html 
 
 image1="images/anh lab 09.10.2022.jpg" link1="images/anh lab 09.10.2022.jpg"
  %}
