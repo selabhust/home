@@ -74,7 +74,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 <br>
 # <i class="fas fa-microscope"></i>Các công bố khoa học
-1.  1.	Pham Canh Huy, Nguyen Quoc Minh*, Nguyen Dang Tien and Tao Thi Quynh Anh, “Short-Term Electricity Load Forecasting Based on Temporal Fusion Transformer Model,” IEEE Access, Vol. 10, pp. 106296 – 106304, Oct. 04th, 2022.
+1.  1.	Pham Canh Huy, Nguyen Quoc Minh*, Nguyen Dang Tien and Tao Thi Quynh Anh, “Short-Term Electricity Load Forecasting Based on Temporal Fusion Transformer Model,” IEEE Access, Vol. 10, pp. 106296 – 106304, Oct. 04th, 2022.<br>
 2.  Nguyễn Quốc Minh, Nguyễn Quang Thắng, Đoàn Văn Minh, “Nghiên cứu giải pháp giảm sóng hài cho phụ tải Công ty Samsung Display Việt Nam”, Tạp chí khoa học và công nghệ quân sự, Vol. 10, 2022.<br>
 3.  Nguyễn Quốc Minh, Nguyễn Tiến Thành, “Phát hiện sự cố trên hệ thống điện mặt trời dựa trên học máy”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 5, 05/2022. <br>
 4.  Nguyễn Quốc Minh, Nguyễn Đăng Tiến, “Ứng dụng mạng nơ-ron tích chập để phát hiện hành vi ăn trộm điện dựa trên dữ liệu từ công tơ thông minh”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, pp. 506-5012, 05/2022.<br>
