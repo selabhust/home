@@ -74,17 +74,17 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 <br>
 # <i class="fas fa-microscope"></i>Các công bố khoa học
-1.  Pham Canh Huy, Nguyen Quoc Minh*, Nguyen Dang Tien and Tao Thi Quynh Anh, “Short-Term Electricity Load Forecasting Based on Temporal Fusion Transformer Model,” IEEE Access, Vol. 10, pp. 106296 – 106304, Oct. 04th, 2022.<br>
+1.  Pham Canh Huy, Nguyen Quoc Minh*, Nguyen Dang Tien and Tao Thi Quynh Anh, “Short-Term Electricity Load Forecasting Based on Temporal Fusion Transformer Model,” IEEE Access, Vol. 10, pp. 106296 – 106304, 10.2022.<br>
 2.  Nguyễn Quốc Minh, Nguyễn Quang Thắng, Đoàn Văn Minh, “Nghiên cứu giải pháp giảm sóng hài cho phụ tải Công ty Samsung Display Việt Nam”, Tạp chí khoa học và công nghệ quân sự, Vol. 10, 2022.<br>
-3.  Nguyễn Quốc Minh, Nguyễn Tiến Thành, “Phát hiện sự cố trên hệ thống điện mặt trời dựa trên học máy”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 5, 05/2022. <br>
-4.  Nguyễn Quốc Minh, Nguyễn Đăng Tiến, “Ứng dụng mạng nơ-ron tích chập để phát hiện hành vi ăn trộm điện dựa trên dữ liệu từ công tơ thông minh”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, pp. 506-5012, 05/2022.<br>
-5.  Nguyễn Quốc Minh, Nguyễn Trần Minh Trang, Nguyễn Tiến Thành, Đàm Tá Hải, “Phát hiện trạng thái hệ thống điện bị tấn công an ninh mạng dựa trên machine learning”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 9, pp. 43-48, 09/2021.<br>
-6.  Nguyễn Quốc Minh, Lê Thị Minh Châu, Nguyễn Đăng Tiến, Lê Minh Hiếu, “Nhận dạng tấm pin mặt trời bị lỗi dựa trên hình ảnh điện phát quang bằng deep learning”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, pp. 117-123, 08/2021.<br>
-7.	Nguyễn Quốc Minh, Lê Thị Minh Châu, “Nhận dạng sự cố trên lưới điện phân phối dựa trên trí tuệ nhân tạo”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, No. 9, pp 32-36, 09/2020.<br>
+3.  Nguyễn Quốc Minh, Nguyễn Tiến Thành, “Phát hiện sự cố trên hệ thống điện mặt trời dựa trên học máy”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 5, 05.2022. <br>
+4.  Nguyễn Quốc Minh, Nguyễn Đăng Tiến, “Ứng dụng mạng nơ-ron tích chập để phát hiện hành vi ăn trộm điện dựa trên dữ liệu từ công tơ thông minh”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, pp. 506-5012, 05.2022.<br>
+5.  Nguyễn Quốc Minh, Nguyễn Trần Minh Trang, Nguyễn Tiến Thành, Đàm Tá Hải, “Phát hiện trạng thái hệ thống điện bị tấn công an ninh mạng dựa trên machine learning”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 9, pp. 43-48, 09.2021.<br>
+6.  Nguyễn Quốc Minh, Lê Thị Minh Châu, Nguyễn Đăng Tiến, Lê Minh Hiếu, “Nhận dạng tấm pin mặt trời bị lỗi dựa trên hình ảnh điện phát quang bằng deep learning”, Tạp chí khoa học và công nghệ Đại học Thái Nguyên, Vol. 8, pp. 117-123, 08.2021.<br>
+7.	Nguyễn Quốc Minh, Lê Thị Minh Châu, “Nhận dạng sự cố trên lưới điện phân phối dựa trên trí tuệ nhân tạo”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, No. 9, pp 32-36, 09.2020.<br>
 8.	Nguyễn Quốc Minh, Lê Đức Tùng, “Đánh giá ảnh hưởng của các nguồn điện phân tán tới sự làm việc của hệ thống bảo vệ trên lưới điện phân phối”, Tạp chí khoa học và công nghệ Đại học Đà Nẵng, Vol. 18, 2020.<br>
 9.	Lê Đức Tùng, Nguyễn Quốc Minh, “Phân tích, đánh giá và giảm thiểu sóng hài trong lưới điện khi có kết nối hệ thống pin năng lượng mặt trời”, Tạp chí nghiên cứu khoa học và công nghệ quân sự, Số 67, trang 85-96, 2020.<br>
 10.	M.Q. Nguyen and J.-C. Chiao, “Transmission Line Model of 3-coil WPT Systems”, IEEE International Wireless Symposium, Guangzhou, China, May. 19-22, 2019.<br>
-11.	Nguyen Quoc Minh, Vo Ta Dong, Nguyen Duy Minh “Nghiên cứu phương pháp cân bằng pha của lưới điện làm việc trong chế độ không đối xứng sử dụng các phần tử kháng trong hệ thống điện”, Tạp chí khoa học và công nghệ các trường đại học kỹ thuật, số 129, trang 1-5, 09/2018.<br>
+11.	Nguyen Quoc Minh, Vo Ta Dong, Nguyen Duy Minh “Nghiên cứu phương pháp cân bằng pha của lưới điện làm việc trong chế độ không đối xứng sử dụng các phần tử kháng trong hệ thống điện”, Tạp chí khoa học và công nghệ các trường đại học kỹ thuật, số 129, trang 1-5, 09.2018.<br>
 12.	M. Q. Nguyen and J.-C. Chiao, “Equivalent 2-port of cascade WPT systems,” IEEE International Wireless Symposium, Chengdu, China, May. 6-10, 2018.<br>
 13.	M. Q. Nguyen, K. Ta, S. Dubey and J.-C. Chiao, “Frequency Modes in a MIMO Wireless Power Transfer System,” IEEE Asia Pacific Microwave Conference, Kuala Lumpur, Malaysia, Nov. 13-16, 2017.<br>
 14.	C. M. Nguyen, P. Kota, M. Q. Nguyen, S. Dubey, S. Rao, J. Mays and J.-C. Chiao, “Wireless Power Transfer for Autonomous Wearable Neurotransmitter Sensors,” Sensors, Vol. 15, No. 9, pp. 24553-24572, Sep. 2015.<br>
