@@ -1,7 +1,7 @@
 ---
 name: Đỗ Thị Diệu Mai
 image: images/DoThiDieuMai.JPG
-description: EE1-K64
+description: EE1-K64, Trưởng lab
 role: thanhvien18
 aliases:
 
