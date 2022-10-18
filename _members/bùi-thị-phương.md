@@ -1,8 +1,8 @@
 ---
 name: Bùi Thị Phương
 image: images/BuiThiPhuong.jpg
-description: Trưởng Lab
-role:  truonglab
+description: EE1-K62
+role:  buithiphuong
 aliases:
 
 links:
