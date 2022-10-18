@@ -20,7 +20,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: truonglab"
+  filters="role: buithiphuong"
 %}
 
 <!-- {%
