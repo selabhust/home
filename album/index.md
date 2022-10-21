@@ -56,7 +56,7 @@ image20="images/Phả_Lại.jpg" link20="images/Phả_Lại.jpg" tooltip20="Tham
 
 image21="images/Bao ve DATN K62.jpg" link21="images/Bao ve DATN K62.jpg" tooltip21="K62 tốt nghiệp"
 
-image23="images/Kỷ niệm 65 năm ngành Hệ thống điện.jpg" link21="Kỷ niệm 65 năm ngành Hệ thống điện.jpg" tooltip23="Kỷ niệm 65 năm ngành Hệ thống điện"
+image23="images/Kỷ niệm 65 năm ngành Hệ thống điện.jpg" link23="Kỷ niệm 65 năm ngành Hệ thống điện.jpg" tooltip23="Kỷ niệm 65 năm ngành Hệ thống điện"
 
  %}
 
