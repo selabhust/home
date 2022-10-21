@@ -200,6 +200,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: NgoGiaPhong"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: thanhvien28"
 %}
 {%
