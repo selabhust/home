@@ -176,6 +176,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: HoangVinh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: thanhvien26"
 %}
 {%
@@ -183,6 +189,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: thanhvien27"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: NguyenQuocAnh"
 %}
 {%
   include list.html
