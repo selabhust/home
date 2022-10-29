@@ -224,7 +224,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: "
+  filters="role: PhamTuanNghia"
 %}
 {%
   include list.html
