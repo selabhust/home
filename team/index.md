@@ -212,6 +212,24 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: NguyenThanhTrung"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: BuiMinhQuan"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: "
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: thanhvien29"
 %}
 {%
