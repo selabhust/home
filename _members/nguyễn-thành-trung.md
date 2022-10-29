@@ -1,8 +1,8 @@
 ---
 name: Nguyễn Thành Trung
-image: images/.jpg
+image: images/NguyenThanhTrung.jpg
 description: EE1-K65
-role: thanhvien28
+role: NguyenThanhTrung
 aliases:
 
 links:
