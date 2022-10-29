@@ -8,7 +8,7 @@ aliases:
 links:
   #home-page: https://fb.com/tranhuu.quynh247
   linkedin: #
-  email: Quan.bm202188@sis.hust.edu.vn
+  email: quan.bm202187@sis.hust.edu.vn
   #twitter: uptonogoode
 ---
 
