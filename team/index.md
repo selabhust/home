@@ -39,12 +39,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien3"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: thanhvien4"
 %}
 {%
@@ -87,12 +81,6 @@ nav:
   data="members"
   component="portrait"
   filters="role: thanhvien11"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien12"
 %}
 {%
   include list.html
@@ -297,8 +285,18 @@ nav:
 # <i class="fas fa-users"></i> Cựu thành viên    
 
 {% include section.html %}
-
-
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: taothiquynhanh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: tranhoangnam"
+%}
 {%
   include list.html
   data="members"
