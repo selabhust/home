@@ -1,7 +1,7 @@
 ---
 name: Tào Thị Quỳnh Anh
 image: images/TaoThiQuynhAnh2.jpg
-description: EM1-K63
+description: EM1-K63, hiện đang làm việc tại Viettel
 role: taothiquynhanh
 aliases:
 
