@@ -1,7 +1,7 @@
 ---
 name: Vũ Thị Hòa
 image: images/VuThiHoa.jpg
-description: K60, hiện đang làm việc tại A1
+description: EE1-K60, hiện đang làm việc tại A1
 role: vuthihoa
 aliases:
 
