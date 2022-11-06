@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Thái Dương
 image: images/NguyenThaiDuong.jpg
-description: K58, hiện đang làm việc tại NPC
+description: EE1-K58, hiện đang làm việc tại NPC
 role: nguyenthaiduong
 aliases:
 
