@@ -1,7 +1,7 @@
 ---
 name: Hồ Văn Huy
 image: images/HoVanHuy.jpg
-description: K57, hiện đang làm việc tại Samsung
+description: EE1-K57, hiện đang làm việc tại Samsung
 role: hovanhuy
 aliases:
 
