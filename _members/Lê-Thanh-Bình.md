@@ -1,7 +1,7 @@
 ---
 name: Lê Thanh Bình
 image: images/LeThanhBinh.jpg
-description: K57, hiện đang làm việc tại Viện năng lượng
+description: EE1-K57, hiện đang làm việc tại Viện năng lượng
 role: lethanhbinh
 aliases:
 
