@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Việt Trung
 image: images/NguyenVietTrung.jpg
-description: K57, hiện đang làm việc tại TOJI
+description: EE1-K57, hiện đang làm việc tại TOJI
 role: nguyenviettrung
 aliases:
 
