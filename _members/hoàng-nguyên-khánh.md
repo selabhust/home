@@ -1,7 +1,7 @@
 ---
 name: Hoàng Nguyên Khánh
 image: images/HoangNguyenKhanh.jpg
-description: K61, hiện đang làm việc tại A0
+description: CTTT HTĐ K61, hiện đang làm việc tại A0
 role: hoangnguyenkhanh
 aliases:
 
