@@ -41,12 +41,6 @@ nav:
   component="portrait"
   filters="role: thanhvien4"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien5"
-%}
 <!-- {%
   include list.html
   data="members"
@@ -296,6 +290,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: tranhoangnam"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyendangtien"
 %}
 {%
   include list.html
