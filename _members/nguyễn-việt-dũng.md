@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Việt Dũng
 image: images/NguyenVietDung.jpg
-description: K60, hiện đang làm việc tại A0
+description: EE1-K60, hiện đang làm việc tại A0
 role: nguyenvietdung
 aliases:
 
