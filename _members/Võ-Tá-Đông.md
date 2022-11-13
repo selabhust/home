@@ -1,7 +1,7 @@
 ---
 name: Võ Tá Đông
 image: images/VoTaDong.jpg
-description: EE1-K59, hiện đang làm việc tại Toshiba
+description: Điện-K59, hiện đang làm việc tại Toshiba
 role: votadong
 aliases:
 
