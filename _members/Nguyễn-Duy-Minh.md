@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Duy Minh
 image: images/NguyenDuyMinh.jpg
-description: EE1-K59, hiện đang làm việc tại PC Hà Tĩnh
+description: Điện-K59, hiện đang làm việc tại PC Hà Tĩnh
 role: nguyenduyminh
 aliases:
 
