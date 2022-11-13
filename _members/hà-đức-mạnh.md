@@ -1,7 +1,7 @@
 ---
 name: Hà Đức Mạnh
 image: images/haducmanh.jpg
-description: EE1-K62
+description: Điện-K62
 role: thanhvien4
 group: alum
 aliases:
