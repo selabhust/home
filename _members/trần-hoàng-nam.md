@@ -1,7 +1,7 @@
 ---
 name: Trần Hoàng Nam
 image: images/TranHoangNam.jpg
-description: EE1-K62, hiện đang làm việc tại Toshiba
+description: Điện-K62, hiện đang làm việc tại Toshiba
 role: tranhoangnam
 aliases:
 
