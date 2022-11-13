@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Thành Trung
 image: images/NguyenThanhTrung.jpg
-description: EE1-K65
+description: Điện-K65
 role: NguyenThanhTrung
 aliases:
 
