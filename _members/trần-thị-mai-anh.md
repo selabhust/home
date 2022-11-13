@@ -1,7 +1,7 @@
 ---
 name: Trần Thị Mai Anh
 image: images/TranThiMaiAnh.jpg
-description: EM1-K65
+description: Điện-K65
 role: thanhvien27
 aliases:
 
