@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Văn Khải
 image: images/NguyenVanKhai.jpg
-description: EE1-K64
+description: Điện-K64
 role: thanhvien25
 aliases:
 
