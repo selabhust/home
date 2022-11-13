@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Văn Dũng
 image: images/NguyenVanDung.jpg
-description: EE1-K63
+description: Điện-K63
 role: thanhvien11
 aliases:
 
