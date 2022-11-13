@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Đăng Tiến
 image: images/NguyenDangTien.jpg
-description: EE2-K62, hiện đang làm việc ở Evotek
+description: Tự động hóa-K62, hiện đang làm việc ở Evotek
 role: nguyendangtien
 group: alum
 aliases:
