@@ -1,7 +1,7 @@
 ---
 name: Bùi Minh Quân
 image: images/BuiMinhQuan.jpg
-description: EE1-K65
+description: Điện-K65
 role: BuiMinhQuan
 aliases:
 
