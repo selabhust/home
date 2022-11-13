@@ -1,7 +1,7 @@
 ---
 name: Vũ Hoài Giang
 image: images/VuHoaiGiang.jpg
-description: EE1-K60, hiện đang làm việc tại A0
+description: Điện-K60, hiện đang làm việc tại A0
 role: vuhoaigiang
 aliases:
 
