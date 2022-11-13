@@ -1,7 +1,7 @@
 ---
 name: Bùi Thị Phương
 image: images/BuiThiPhuong.jpg
-description: EE1-K62
+description: Điện-K62
 role:  buithiphuong
 aliases:
 
