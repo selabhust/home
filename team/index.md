@@ -16,13 +16,6 @@ nav:
   component="portrait"
   filters="role: chunhiem"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: buithiphuong"
-%}
-
 <!-- {%
   include list.html
   data="members"
@@ -284,6 +277,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: taothiquynhanh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: buithiphuong"
 %}
 {%
   include list.html
