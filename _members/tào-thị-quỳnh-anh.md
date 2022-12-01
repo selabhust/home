@@ -1,6 +1,6 @@
 ---
 name: Tào Thị Quỳnh Anh
-image: images/TaoThiQuynhAnh2.jpg
+image: images/TaoThiQuynhAnh3.jpg
 description: Kinh tế công nghiệp-K63, hiện đang làm việc tại Viettel
 role: taothiquynhanh
 aliases:
