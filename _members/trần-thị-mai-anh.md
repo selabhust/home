@@ -1,7 +1,7 @@
 ---
 name: Trần Thị Mai Anh
 image: images/TranThiMaiAnh.jpg
-description: Điện-K65
+description: Kinh tế công nghiệp-K65
 role: thanhvien27
 aliases:
 
