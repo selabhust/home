@@ -58,6 +58,8 @@ image21="images/Bao ve DATN K62.jpg" link21="images/Bao ve DATN K62.jpg" tooltip
 
 image23="images/Kỷ niệm 65 năm ngành Hệ thống điện.jpg" link23="Kỷ niệm 65 năm ngành Hệ thống điện.jpg" tooltip23="Kỷ niệm 65 năm ngành Hệ thống điện"
 
+image24="images/17.11.2022 banh goi tra tranh nha tho.jpg" link24="images/17.11.2022 banh goi tra tranh nha tho.jpg" tooltip23="17.11.2022 Bánh gối trà chanh nhà thờ"
+
  %}
 
 {% include section.html %}
