@@ -38,7 +38,7 @@ Quyền lợi khi tham gia lab <br>
 - Tham gia các hoạt động liên kết với doanh nghiệp.<br>
 - Đi study tour tại các trạm biến áp, nhà máy điện, các doanh nghiệp trong lĩnh vực điện.<br>
 - Tham gia các khóa đào tạo cấp chứng chỉ về Python, Machine learning, AI. <br>
-- Làm chủ các phần mềm tính toán phân tích  hệ thống điện như: ETAP, PSS/E, PSS®SINCAL, PS CAD. <br>
+- Làm chủ các phần mềm tính toán phân tích  hệ thống điện như: ETAP, PSS/E, PSS®SINCAL, PS CAD, Aspen OneLiner <br>
 - Được giới thiệu thực tập và tuyển dụng. <br>
 - Có cơ hội nhận học bổng từ các doanh nghiệp. <br>
 
