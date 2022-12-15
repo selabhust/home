@@ -35,6 +35,7 @@ Quyền lợi khi tham gia lab <br>
 - Môi trường thân thiện, hòa đồng, trao đổi, chia sẻ, học tập giữa các khóa. <br>
 - Rèn luyện các kỹ năng mềm như: MS Office, Tiếng Anh, làm việc nhóm, thuyết trình.<br>
 - Tham gia các diễn đàn, hội nghị nghiên cứu khoa học.<br>
+- Đứng tên trong các công bố khoa học đăng trên các tạp chí khoa học trong nước và quốc tế có uy tín. <br>
 - Tham gia các hoạt động liên kết với doanh nghiệp.<br>
 - Đi study tour tại các trạm biến áp, nhà máy điện, các doanh nghiệp trong lĩnh vực điện.<br>
 - Tham gia các khóa đào tạo cấp chứng chỉ về Python, Machine learning, AI. <br>
