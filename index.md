@@ -44,7 +44,7 @@ Quyền lợi khi tham gia lab <br>
 - Có cơ hội nhận học bổng từ các doanh nghiệp. <br>
 
 Điều kiện tham gia lab <br>
-- Nền tảng học thuật: CPA đạt 2.5 trở lên <br>
+- Có nền tảng học thuật, tiếng anh <br>
 - Ham thích thể thao, âm nhạc <br>
 - Nhiệt tình, hòa đồng với mọi người <br>
 - Mong muốn hoàn thiện bản thân <br>
