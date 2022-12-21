@@ -1,6 +1,6 @@
 ---
 name: Nguyễn Trần Minh Trang
-image: images/NguyenTranMinhTrang.jpg
+image: images/NguyenTranMinhTrang2.jpg
 description: Điện-K63
 role: thanhvien8
 aliases:
