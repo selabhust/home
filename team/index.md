@@ -385,18 +385,19 @@ nav:
 # <i class="fas fa-users"></i> Sau đại học
 
 1. Nguyễn Văn Hùng - 2021b, hiện đang làm việc tại Trường Đại học Hàng Hải <br>
-2. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại A0 <br>
-3. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
-4. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-5. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-6. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-7. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
-8. Vũ Hoài Giang - 2020b, hiện đang làm việc tại A0 <br>
-9. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
-10. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại PTC1 <br>
-11. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
-12. Pech Dida - 2018b, hiện đang làm việc tại Điều độ HTĐ Cambodia <br>
-13. Chu Thế Hùng - 2017b, hiện đang làm việc tại NPC <br>
-14. Hồ Viết Huy - 2017b, hiện đang làm việc tại NPC <br>
-15. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại NPC <br>
-16. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
+2. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại A0 <br>
+3. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại A0 <br>
+4. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
+5. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+6. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+7. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+8. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
+9. Vũ Hoài Giang - 2020b, hiện đang làm việc tại A0 <br>
+10. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
+11. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại PTC1 <br>
+12. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
+13. Pech Dida - 2018b, hiện đang làm việc tại Điều độ HTĐ Cambodia <br>
+14. Chu Thế Hùng - 2017b, hiện đang làm việc tại NPC <br>
+15. Hồ Viết Huy - 2017b, hiện đang làm việc tại NPC <br>
+16. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại NPC <br>
+17. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
