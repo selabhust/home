@@ -388,11 +388,11 @@ nav:
 2. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại A0 <br>
 3. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại A0 <br>
 4. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
-5. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-6. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-7. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-8. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
-9. Vũ Hoài Giang - 2020b, hiện đang làm việc tại A0 <br>
+5.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại A0 <br>
+6. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+7. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+8. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
+9. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
 10. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
 11. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại PTC1 <br>
 12. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
