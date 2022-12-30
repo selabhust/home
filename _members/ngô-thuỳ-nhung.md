@@ -1,6 +1,6 @@
 ---
 name: Ngô Thuỳ Nhung
-image: images/NgoThuyNhung.jpg
+image: images/NgoThuyNhung2.jpg
 description: Điện-K64
 role: thanhvien17
 aliases:
