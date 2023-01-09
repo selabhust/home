@@ -60,6 +60,8 @@ image23="images/Kỷ niệm 65 năm ngành Hệ thống điện.jpg" link23="K�
 
 image24="images/17.11.2022 banh goi tra tranh nha tho.jpg" link24="images/17.11.2022 banh goi tra tranh nha tho.jpg" tooltip24="17.11.2022 Bánh gối trà chanh nhà thờ"
 
+image25="images/08.01.2023 Tat nien.jpg" link25="08.01.2023 Tat nien.jpg" tooltip25="08.01.2023 tất niên lab"
+
  %}
 
 {% include section.html %}
