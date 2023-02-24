@@ -1,7 +1,7 @@
 ---
 name: Bùi Thị Phương
 image: images/BuiThiPhuong.jpg
-description: Điện-K62, hiện đang làm việc tại NSN
+description: Điện-K62, hiện đang làm việc tại CTCI
 role:  buithiphuong
 aliases:
 
