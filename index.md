@@ -54,4 +54,7 @@ Quyền lợi khi tham gia lab <br>
 - Hình thức tuyển: Phỏng vấn trực tiếp (Thời gian và địa chỉ sẽ được thông báo qua email đăng ký) <br>
 
 {% include section.html %}
+{% include gallery.html 
 
+image1="images/Noi quy.png" link1="images/Noi quy.png"
+ %}
