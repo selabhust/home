@@ -62,6 +62,7 @@ image24="images/17.11.2022 banh goi tra tranh nha tho.jpg" link24="images/17.11.
 
 image25="images/08.01.2023 Tat nien.jpg" link25="images/08.01.2023 Tat nien.jpg" tooltip25="08.01.2023 tất niên lab"
 
+image26="images/mocchau.jpg" link26="images/mocchau.jpg" tooltip26="01.04.2023 Tham quan Mai Châu"
  %}
 
 {% include section.html %}
