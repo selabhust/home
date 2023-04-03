@@ -97,12 +97,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien17"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: thanhvien18"
 %}
 {%
