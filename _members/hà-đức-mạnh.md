@@ -2,7 +2,7 @@
 name: Hà Đức Mạnh
 image: images/haducmanh.jpg
 description: Điện-K62
-role: thanhvien4
+role: haducmanh
 group: alum
 aliases:
   - Tien-Nguyen Dang
