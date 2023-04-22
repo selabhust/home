@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Khánh Nhi
 image: images/NguyenKhanhNhi.jpg
-description: Kỹ thuật máy tính, San Jose State University
+description: Toán ứng dụng, San Jose State University
 role: nguyenkhanhnhi
 aliases:
 
@@ -14,6 +14,6 @@ links:
   #twitter: uptonogoode
 ---
 
-Học chương trình kỹ thuật máy tính
+Học chương trình toán ứng dụng
 
 San Jose State University
