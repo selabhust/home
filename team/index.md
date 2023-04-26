@@ -163,6 +163,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: phanquynhtrang"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: NguyenQuocAnh"
 %}
 {%
@@ -194,6 +200,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: PhamTuanNghia"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyentienbanggiang"
 %}
 {%
   include list.html
