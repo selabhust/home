@@ -243,6 +243,12 @@ nav:
   component="portrait"
   filters="role: thanhvien35"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: tranvantien"
+%}
  {%
   include list.html
   data="members"
@@ -272,6 +278,18 @@ nav:
   data="members"
   component="portrait"
   filters="role: tranmanhhung"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: vusontung"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenducchinh"
 %}
 {:.center}
 
