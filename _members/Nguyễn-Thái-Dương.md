@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Thái Dương
 image: images/NguyenThaiDuong.jpg
-description: Điện-K58, hiện đang làm việc tại NPC
+description: Điện-K58, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc
 role: nguyenthaiduong
 aliases:
 
