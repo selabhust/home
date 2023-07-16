@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Duy Minh
 image: images/NguyenDuyMinh.jpg
-description: Điện-K59, hiện đang làm việc tại PC Hà Tĩnh
+description: Điện-K59, hiện đang làm việc tại Công ty Điện lực Hà Tĩnh
 role: nguyenduyminh
 aliases:
 
