@@ -1,7 +1,7 @@
 ---
 name: Vũ Hoài Giang
 image: images/VuHoaiGiang.jpg
-description: Điện-K60, hiện đang làm việc tại A0
+description: Điện-K60, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia
 role: vuhoaigiang
 aliases:
 
