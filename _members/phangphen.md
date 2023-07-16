@@ -1,7 +1,7 @@
 ---
 name: PhangPhen
 image: images/PhangPhen.jpg
-description: Điện-K61, hiện đang làm việc tại Điều độ HTĐ Cambodia
+description: Điện-K61, hiện đang làm việc tại Trung tâm Điều độ HTĐ Cambodia
 role: phangphen
 aliases:
 
