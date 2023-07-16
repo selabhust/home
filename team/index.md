@@ -416,19 +416,19 @@ nav:
 # <i class="fas fa-users"></i> Sau đại học
 
 1. Nguyễn Văn Hùng - 2021b, hiện đang làm việc tại Trường Đại học Hàng Hải <br>
-2. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại A0 <br>
-3. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại A0 <br>
+2. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
+3. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
 4. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
-5.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại A0 <br>
-6. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-7. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-8. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại PC Hoàn Kiếm <br>
-9. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại PC Ba Đình <br>
+5.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
+6. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
+7. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
+8. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
+9. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Ba Đình <br>
 10. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
-11. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại PTC1 <br>
+11. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại Công ty truyền tải điện I <br>
 12. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
-13. Pech Dida - 2018b, hiện đang làm việc tại Điều độ HTĐ Cambodia <br>
-14. Chu Thế Hùng - 2017b, hiện đang làm việc tại NPC <br>
-15. Hồ Viết Huy - 2017b, hiện đang làm việc tại NPC <br>
-16. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại NPC <br>
+13. Pech Dida - 2018b, hiện đang làm việc tại Trung tâm Điều độ HTĐ Cambodia <br>
+14. Chu Thế Hùng - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc  <br>
+15. Hồ Viết Huy - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
+16. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
 17. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
