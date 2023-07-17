@@ -415,7 +415,7 @@ nav:
 {:.center}
 # <i class="fas fa-users"></i> Sau đại học
 
-1. Nguyễn Tú Quyên - 2022b, hiện đang làm việc tại Trung tâm Điều độ HTĐ TP. Hà Nội <br>
+1. Nguyễn Tú Quyên - 2022b, hiện đang làm việc tại Trung tâm Điều độ HTĐ thành phố Hà Nội <br>
 2. Nguyễn Văn Hùng - 2021b, hiện đang làm việc tại Trường Đại học Hàng Hải <br>
 3. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
 4. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
