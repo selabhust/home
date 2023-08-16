@@ -301,6 +301,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: nguyentranminhtrang"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: taothiquynhanh"
 %}
 {%
