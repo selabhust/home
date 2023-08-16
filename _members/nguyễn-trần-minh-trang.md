@@ -1,8 +1,8 @@
 ---
 name: Nguyễn Trần Minh Trang
 image: images/NguyenTranMinhTrang2.jpg
-description: Điện-K63
-role: thanhvien8
+description: Điện-K63, hiện đang làm việc tại Công ty Mua bán điện EPTC
+role: nguyentranminhtrang
 aliases:
 
 links:
