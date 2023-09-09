@@ -285,6 +285,12 @@ nav:
   component="portrait"
   filters="role: nguyenducchinh"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: totienhung"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
