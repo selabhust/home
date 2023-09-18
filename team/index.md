@@ -169,12 +169,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien29"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: BuiMinhQuan"
 %}
 {%
