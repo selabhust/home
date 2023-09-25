@@ -1,6 +1,6 @@
 ---
 name: Trần Trang Ninh
-image: images/TranTrangNinh.jpg
+image: images/TranTrangNinh2.jpg
 description: Điện-K63
 role: thanhvien9
 aliases:
