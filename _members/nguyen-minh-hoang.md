@@ -1,6 +1,6 @@
 ---
 name: Nguyễn Minh Hoàng
-image: images/NguyenMinhHoang.jpg
+image: images/NguyenMinhHoang2.jpg
 description: CTTT HTĐ-K66
 role: nguyenminhhoang
 aliases:
