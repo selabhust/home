@@ -14,6 +14,6 @@ links:
   #twitter: uptonogoode
 ---
 
-Học chương trình Kinh tế công nghiệp.
+Học chương trình tiên tiến hệ thống điện và năng lượng tái tạo.
 
 Khoá 65 Đại học Bách Khoa Hà Nội.
