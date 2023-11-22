@@ -182,7 +182,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien30"
+  filters="role: nguyenhoangvananh"
 %}
 {%
   include list.html
