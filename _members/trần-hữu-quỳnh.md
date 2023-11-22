@@ -1,8 +1,8 @@
 ---
 name: Trần Hữu Quỳnh
-image: images/TranHuuQuynh.jpg
+image: images/TranHuuQuynh2.JPG
 description: Điện-K64
-role: thanhvien16
+role: tranhuuquynh
 aliases:
 
 links:
