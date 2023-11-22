@@ -2,7 +2,7 @@
 name: Nguyễn Đức Thảo
 image: images/NguyenDucThao.png
 description: Điện-K63
-role: thanhvien7
+role: nguyenducthao
 aliases:
 
 links:
