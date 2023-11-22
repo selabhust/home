@@ -1,6 +1,6 @@
 ---
 name: Phạm Tuấn Nghĩa
-image: images/PhamTuanNghia.jpg
+image: images/PhamTuanNghia2.jpg
 description: Điện-K65
 role: PhamTuanNghia
 aliases:
