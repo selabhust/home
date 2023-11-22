@@ -40,6 +40,13 @@ image25="images/08.01.2023 Tat nien.jpg" link25="images/08.01.2023 Tat nien.jpg"
 image26="images/mocchau.jpg" link26="images/mocchau.jpg" tooltip26="01.04.2023 Tham quan Mai Châu"
 image27="images/08.07.2023.jpg" link27="images/08.07.2023.jpg" tooltip27="08.07.2023 Chụp ảnh lab"
 image28="images/19.08.2023 Soc Son.jpg" link28="images/19.08.2023 Soc Son.jpg" tooltip28="19.08.2023 Đi chơi ở Sóc Sơn"
+image29="images/20.10.2023 lien hoan 20.10 tai lab.jpg" link29="images/20.10.2023 lien hoan 20.10 tai lab.jpg" tooltip29="20.10.2023 Liên hoan 20.10 tại lab"
+image30="images/22.10.2023 sinh vien nhan bang tot nghiep.jpg" link30="images/22.10.2023 sinh vien nhan bang tot nghiep.jpg" tooltip30="22.10.2023 Các bạn tốt nghiệp nhận bằng"
+image31="images/22.10.2023 den choi nha thay.jpg" link31="images/22.10.2023 den choi nha thay.jpg" tooltip31="22.10.2023 Đến chơi nhà thầy"
+image32="images/12.11.2023 K65 lien hoan tai nha thay.jpg" link32="images/12.11.2023 K65 lien hoan tai nha thay.jpg" tooltip32="12.11.2023 K65 liên hoan tại nhà thầy"
+image33="images/13.11.2023 hoi thao EEE-AM.jpg" link33="images/13.11.2023 hoi thao EEE-AM.jpg" tooltip33="13.11.2023 Hội thảo EEE-AM"
+image34="images/19.11.2023 Cafe ho tay.jpg" link34="images/19.11.2023 Cafe ho tay.jpg" tooltip34="19.11.2023 Cafe hồ tây"
+image35="images/20.11.2023 lien hoan cuu thanh vien.jpg" link35="images/20.11.2023 lien hoan cuu thanh vien" tooltip35="20.11.2023 Liên hoan 20.11 với cựu thành viên"
  %}
 
 {% include section.html %}
