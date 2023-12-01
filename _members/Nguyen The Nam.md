@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Thế Nam
 image: images/NguyenTheNam.jpg
-description: CTTT Hệ thống điện & năng lượng tái tạo-K67
+description: CTTT HTĐ-K67
 role: nguyenthenam
 aliases:
 
