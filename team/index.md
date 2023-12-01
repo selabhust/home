@@ -274,6 +274,12 @@ nav:
   component="portrait"
   filters="role: totienhung"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenthenam"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
