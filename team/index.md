@@ -280,6 +280,18 @@ nav:
   component="portrait"
   filters="role: nguyenthenam"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenthithao"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phamviethung"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
