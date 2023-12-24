@@ -47,6 +47,7 @@ image32="images/12.11.2023 K65 lien hoan tai nha thay.jpg" link32="images/12.11.
 image33="images/13.11.2023 hoi thao EEE-AM.jpg" link33="images/13.11.2023 hoi thao EEE-AM.jpg" tooltip33="13.11.2023 Hội thảo EEE-AM"
 image34="images/19.11.2023 Cafe ho tay.jpg" link34="images/19.11.2023 Cafe ho tay.jpg" tooltip34="19.11.2023 Cafe hồ tây"
 image35="images/20.11.2023 lien hoan cuu thanh vien.jpg" link35="images/20.11.2023 lien hoan cuu thanh vien.jpg" tooltip35="20.11.2023 Liên hoan 20.11 với cựu thành viên"
+image36="images/23.12.2023 cuoi Giang.jpg" link36="images/23.12.2023 cuoi Giang.jpg" tooltip36="23.12.2023 Đi ăn cưới Giang tại Việt Trì"
  %}
 
 {% include section.html %}
