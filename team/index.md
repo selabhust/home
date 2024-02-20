@@ -218,12 +218,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien35"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: tranvantien"
 %}
  {%
