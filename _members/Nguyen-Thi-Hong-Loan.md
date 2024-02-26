@@ -2,7 +2,7 @@
 name: Nguyễn Thị Hồng Loan
 image: images/NguyenThiHongLoan.jpg
 description: Kinh tế công nghiệp-K66
-role: thanhvien39
+role: nguyenthihongloan
 aliases:
 
 
