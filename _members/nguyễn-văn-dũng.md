@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Văn Dũng
 image: images/NguyenVanDung.jpg
-description: Điện-K63, hiện đang làm việc ở EPI
+description: Điện-K63, hiện đang làm việc tại EPI
 role: nguyenvandung
 aliases:
 
