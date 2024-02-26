@@ -1,7 +1,7 @@
 ---
 name: Hà Đức Mạnh
 image: images/haducmanh.jpg
-description: Điện-K62
+description: Điện-K62, hiện đang làm việc tại Công ty TNHH TOYO SOLAR
 role: haducmanh
 group: alum
 aliases:
