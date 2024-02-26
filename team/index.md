@@ -273,13 +273,6 @@ nav:
 # <i class="fas fa-users"></i> Cựu thành viên    
 
 {% include section.html %}
-
-<!--{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: haducmanh"
-%}-->
 <!--{%
   include list.html
   data="members"
@@ -333,6 +326,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: taothiquynhanh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: haducmanh"
 %}
 {%
   include list.html
