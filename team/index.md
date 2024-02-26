@@ -218,7 +218,13 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien39"
+  filters="role: nguyenthihongloan"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phamcongnhien"
 %}
 {%
   include list.html
