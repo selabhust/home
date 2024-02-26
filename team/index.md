@@ -40,18 +40,6 @@ nav:
   component="portrait"
   filters="role: thanhvien8"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien9"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien11"
-%}
 <!--{%
   include list.html
   data="members"
@@ -304,6 +292,18 @@ nav:
   component="portrait"
   filters="role: haducmanh"
 %}-->
+<!--{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: trantrangninh"
+%}-->
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenvandung"
+%}
 {%
   include list.html
   data="members"
