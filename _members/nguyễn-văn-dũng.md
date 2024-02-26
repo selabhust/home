@@ -2,7 +2,7 @@
 name: Nguyễn Văn Dũng
 image: images/NguyenVanDung.jpg
 description: Điện-K63
-role: thanhvien11
+role: nguyenvandung
 aliases:
 
 links:
