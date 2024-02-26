@@ -1,7 +1,7 @@
 ---
 name: Trần Hữu Quỳnh
 image: images/TranHuuQuynh2.JPG
-description: Điện-K64
+description: Điện-K64, hiện đang làm việc tại Trung tâm điều độ hệ thống điện TP. Hà Nội
 role: tranhuuquynh
 aliases:
 
