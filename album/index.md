@@ -48,6 +48,8 @@ image33="images/13.11.2023 hoi thao EEE-AM.jpg" link33="images/13.11.2023 hoi th
 image34="images/19.11.2023 Cafe ho tay.jpg" link34="images/19.11.2023 Cafe ho tay.jpg" tooltip34="19.11.2023 Cafe hồ tây"
 image35="images/20.11.2023 lien hoan cuu thanh vien.jpg" link35="images/20.11.2023 lien hoan cuu thanh vien.jpg" tooltip35="20.11.2023 Liên hoan 20.11 với cựu thành viên"
 image36="images/23.12.2023 cuoi Giang.jpg" link36="images/23.12.2023 cuoi Giang.jpg" tooltip36="23.12.2023 Đi ăn cưới Giang tại Việt Trì"
+image37="images/20.02.2024 Tiec ngot dau nam.jpg" link37="images/20.02.2024 Tiec ngot dau nam.jpg" tooltip37="20.02.2024 Gặp mặt đầu năm"
+image38="images/24.02.2024 Bao ve Do an tot nghiep 20231.jpg" link38="images/24.02.2024 Bao ve Do an tot nghiep 20231.jpg" tooltip38="24.02.2024 Bảo vệ đồ án tốt nghiệp kỳ 20231"
  %}
 
 {% include section.html %}
