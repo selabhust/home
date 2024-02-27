@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Bích Ngọc
 image: images/NguyenBichNgoc.jpg
-description: CTTT HTĐ&NLTT-K68
+description: CTTT Hệ thống điện và Năng lượng tái tạo-K68
 role: nguyenbichngoc
 aliases:
 
