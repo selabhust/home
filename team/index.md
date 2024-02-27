@@ -274,6 +274,12 @@ nav:
   component="portrait"
   filters="role: phamviethung"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenbichngoc"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
