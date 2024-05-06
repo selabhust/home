@@ -272,6 +272,18 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: phamminhhoang"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phamngocminh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phamviethung"
 %}
 {%
@@ -279,6 +291,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: nguyenbichngoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: dangnguyenbinh"
 %}
 {:.center}
 
