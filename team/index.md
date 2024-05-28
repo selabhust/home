@@ -304,6 +304,12 @@ nav:
   component="portrait"
   filters="role: dangnguyenbinh"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: lephuonghau"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
