@@ -50,6 +50,11 @@ image35="images/20.11.2023 lien hoan cuu thanh vien.jpg" link35="images/20.11.20
 image36="images/23.12.2023 cuoi Giang.jpg" link36="images/23.12.2023 cuoi Giang.jpg" tooltip36="23.12.2023 Đi ăn cưới Giang tại Việt Trì"
 image37="images/20.02.2024 Tiec ngot dau nam.jpg" link37="images/20.02.2024 Tiec ngot dau nam.jpg" tooltip37="20.02.2024 Gặp mặt đầu năm"
 image38="images/24.02.2024 Bao ve Do an tot nghiep 20231.jpg" link38="images/24.02.2024 Bao ve Do an tot nghiep 20231.jpg" tooltip38="24.02.2024 Bảo vệ đồ án tốt nghiệp kỳ 20231"
+image39="images/18.05.2024 Lien hoan lab.jpg" link39="images/18.05.2024 Lien hoan lab.jpg" tooltip39="18.05.2024 Liên hoan"
+image40="images/18.05.2024 Lab photo.jpg" link40="images/18.05.2024 Lab photo.jpg" tooltip40="18.05.2024 Chụp ảnh Lab"
+image41="images/11.05.2024 Tot nghiep.jpg" link41="images/11.05.2024 Tot nghiep.jpg" tooltip41="11.05.2024 Lễ nhận bằng tốt nghiệp học kỳ2023.1"
+image42="images/25.05.2024 SVNCKH nhom 1.jpg" link42="images/25.05.2024 SVNCKH nhom 1.jpg" tooltip42="25.05.2024 SVNCKH cấp Đại học"
+image43="images/25.05.2024 SVNCKH nhom 2.jpg" link43="images/25.05.2024 SVNCKH nhom 2.jpg" tooltip43="25.05.2024 SVNCKH cấp Đại học"
  %}
 
 {% include section.html %}
