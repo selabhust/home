@@ -1,7 +1,7 @@
 ---
 name: Trần Trang Ninh
 image: images/TranTrangNinh.jpg
-description: Điện-K63, Cục Cảnh sát quản lý hành chính về trật tự xã hội
+description: Điện-K63, hiện đang làm việc tại Cục Cảnh sát quản lý hành chính về trật tự xã hội
 role: trantrangninh
 aliases:
 
