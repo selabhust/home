@@ -284,6 +284,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: phamthikimhuong"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phamviethung"
 %}
 {%
