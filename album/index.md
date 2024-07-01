@@ -55,6 +55,7 @@ image40="images/18.05.2024 Lab photo.jpg" link40="images/18.05.2024 Lab photo.jp
 image41="images/11.05.2024 Tot nghiep.jpg" link41="images/11.05.2024 Tot nghiep.jpg" tooltip41="11.05.2024 Lễ nhận bằng tốt nghiệp học kỳ2023.1"
 image42="images/25.05.2024 SVNCKH nhom 1.jpg" link42="images/25.05.2024 SVNCKH nhom 1.jpg" tooltip42="25.05.2024 SVNCKH cấp Đại học"
 image43="images/25.05.2024 SVNCKH nhom 2.jpg" link43="images/25.05.2024 SVNCKH nhom 2.jpg" tooltip43="25.05.2024 SVNCKH cấp Đại học"
+image44="images/02.06.2024 Tham quan nha may thuy dien Hoa Binh.jpg" link44="images/02.06.2024 Tham quan nha may thuy dien Hoa Binh.jpg" tooltip44="02.06.2024 Thăm quan Thủy điện Hòa Bình"
  %}
 
 {% include section.html %}
