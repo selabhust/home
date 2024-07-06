@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Đức Thảo
 image: images/NguyenDucThao.png
-description: Điện-K63, hiện đang làm việc tại INS Engineering
+description: Điện-K63, hiện đang làm việc tại Viettel
 role: nguyenducthao
 aliases:
 
