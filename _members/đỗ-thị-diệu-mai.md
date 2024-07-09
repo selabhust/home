@@ -1,8 +1,8 @@
 ---
 name: Đỗ Thị Diệu Mai
 image: images/DoThiDieuMai2.jpg
-description: Điện-K64 
-role: thanhvien18
+description: Điện-K64, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia 
+role: dothidieumai
 aliases:
 
 links:
