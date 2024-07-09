@@ -74,12 +74,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien21"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: thanhvien22"
 %}
 {%
@@ -320,6 +314,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: dothidieumai"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenduylinh"
 %}
 {%
   include list.html
