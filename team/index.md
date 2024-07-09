@@ -80,12 +80,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien24"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: nguyenvankhai"
 %}
 {%
@@ -320,6 +314,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: nguyentrongkhiem"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: doducanh"
 %}
 {%
   include list.html
