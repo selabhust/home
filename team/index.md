@@ -266,6 +266,18 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: nguyendanhtri"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: vubaminhdang"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phamviethung"
 %}
 {%
