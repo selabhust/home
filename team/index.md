@@ -206,6 +206,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: tranxuanan"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: tranmanhhung"
 %}
 {%
