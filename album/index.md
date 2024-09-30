@@ -52,11 +52,11 @@ image37="images/20.02.2024 Tiec ngot dau nam.jpg" link37="images/20.02.2024 Tiec
 image38="images/24.02.2024 Bao ve Do an tot nghiep 20231.jpg" link38="images/24.02.2024 Bao ve Do an tot nghiep 20231.jpg" tooltip38="24.02.2024 Bảo vệ đồ án tốt nghiệp kỳ 20231"
 image39="images/18.05.2024 Lien hoan lab.jpg" link39="images/18.05.2024 Lien hoan lab.jpg" tooltip39="18.05.2024 Liên hoan"
 image40="images/18.05.2024 Lab photo.jpg" link40="images/18.05.2024 Lab photo.jpg" tooltip40="18.05.2024 Chụp ảnh Lab"
-image41="images/11.05.2024 Tot nghiep.jpg" link41="images/11.05.2024 Tot nghiep.jpg" tooltip41="11.05.2024 Lễ nhận bằng tốt nghiệp học kỳ2023.1"
+image41="images/11.05.2024 Tot nghiep.jpg" link41="images/11.05.2024 Tot nghiep.jpg" tooltip41="11.05.2024 Lễ nhận bằng tốt nghiệp học kỳ 20231"
 image42="images/25.05.2024 SVNCKH nhom 1.jpg" link42="images/25.05.2024 SVNCKH nhom 1.jpg" tooltip42="25.05.2024 SVNCKH cấp Đại học"
 image43="images/25.05.2024 SVNCKH nhom 2.jpg" link43="images/25.05.2024 SVNCKH nhom 2.jpg" tooltip43="25.05.2024 SVNCKH cấp Đại học"
 image44="images/02.06.2024 Tham quan nha may thuy dien Hoa Binh.jpg" link44="images/02.06.2024 Tham quan nha may thuy dien Hoa Binh.jpg" tooltip44="02.06.2024 Thăm quan Thủy điện Hòa Bình"
-image45="images/21.07.2024 tham quan Trang An Ninh Binh.jpg" link45="images/21.07.2024 tham quan Trang An Ninh Binh.jpg" tooltip44="21.07.2024 thăm quan Tràng An - Ninh Binh"
+image45="images/21.07.2024 tham quan Trang An Ninh Binh.jpg" link45="images/21.07.2024 tham quan Trang An Ninh Binh.jpg" tooltip45="21.07.2024 thăm quan Tràng An - Ninh Binh"
+image46="images/29.09.2024 Le tot nghiep.jpg" link46="images/29.09.2024 Le tot nghiep.jpg" tooltip46="21.07.2024 Lễ nhận bằng tốt nghiệp học kỳ 20232"
  %}
-
 {% include section.html %}
