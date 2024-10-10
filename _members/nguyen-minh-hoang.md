@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Minh Hoàng
 image: images/NguyenMinhHoang2.jpg
-description: CTTT HTĐ-K66
+description: CTTT Hệ thống điện và Năng lượng tái tạo-K66
 role: nguyenminhhoang
 aliases:
 
