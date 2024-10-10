@@ -1,6 +1,6 @@
 ---
 name: Lâm Thị Minh
-image: images/BuiThiPhuongThao.jpg
+image: images/LamThiMinh.jpg
 description: Điện-K67
 role: lamthiminh
 aliases:
