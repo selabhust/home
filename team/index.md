@@ -188,6 +188,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: lethinhatminh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: nguyenthihongloan"
 %}
 {%
@@ -266,7 +272,19 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: lamthiminh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: nguyendanhtri"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenanhtuan"
 %}
 {%
   include list.html
