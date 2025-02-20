@@ -1,7 +1,7 @@
 ---
 name: Bùi Minh Quân
 image: images/BuiMinhQuan.jpg
-description: Điện-K65, hiện đang làm cho afterFIT
+description: Điện-K65, hiện đang làm việc tại afterFIT
 role: buiminhquan
 aliases:
 
