@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Tiến Bằng Giang
 image: images/NguyenTienBangGiang.jpg
-description: Điện-K65
+description: Điện-K65, hiện đang làm việc tại Viettel
 role: nguyentienbanggiang
 aliases:
 
