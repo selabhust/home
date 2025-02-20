@@ -310,6 +310,18 @@ nav:
   component="portrait"
   filters="role: lephuonghau"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenichhao"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phamthikhanhlinh"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
