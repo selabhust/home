@@ -1,8 +1,8 @@
 ---
 name: Đỗ Đức Hùng
 image: images/doduchung.png
-description: Điện-K64
-role: thanhvien19
+description: Điện-K64, hiện đang làm việc tại Công ty Mua bán điện EPTC 
+role: doduchung
 aliases:
 
 links:
