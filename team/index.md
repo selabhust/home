@@ -538,7 +538,7 @@ nav:
 1. Chu Nguyên Chương - 2022b, hiện đang làm việc tại Công ty truyền tải điện 1 <br>
 2. Nguyễn Tú Quyên - 2022b, hiện đang làm việc tại Trung tâm Điều độ HTĐ thành phố Hà Nội <br>
 3. Nguyễn Văn Hùng - 2021b, hiện đang làm việc tại Trường Đại học Hàng Hải <br>
-4. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
+4. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Ban kế hoạch, Tập đoàn Điện lực Việt Nam <br>
 5. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
 6. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
 7.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
