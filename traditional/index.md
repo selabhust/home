@@ -1,7 +1,7 @@
 ---
 title: Phòng truyền thống
 nav:
-  order: 6
+  order: 5
   tooltip: About our achievement
 ---
 # <i class="fas fa-feather-alt"></i>Phòng truyền thống Smart Energy Lab 
