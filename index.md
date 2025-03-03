@@ -19,7 +19,8 @@ image1="images/08.07.2023.jpg" link1="images/08.07.2023.jpg"
 Xin chào các bạn đã ghé thăm website của Smart Energy Lab, Đại học Bách Khoa Hà Nội. Lab được thành lập vào năm 2019, bao gồm các sinh viên chuyên ngành điện, tự động hóa, kinh tế năng lượng, công nghệ thông tin của Đại học Bách Khoa Hà Nội và một số trường đại học kỹ thuật. Các hoạt động chính của lab bao gồm nghiên cứu khoa học, hợp tác công nghiệp, thực tập và tuyển dụng. Các lĩnh vực quan tâm của lab bao gồm bảo vệ và điều khiển hệ thống điện, tự động hóa trong hệ thống điện, khoa học dữ liệu ứng dụng trong lưới điện thông minh, tích hợp các nguồn năng lượng mới và tái tạo, truyền tải điện không dây. <br>
 
 Chủ nhiệm Lab: TS. Nguyễn Quốc Minh <br>
-
+E-mail: minh.nguyenquoc@hust.edu.vn <br>
+Địa chỉ Lab: C7-E514 <br>
 Quá trình đào tạo <br>
 - Tiến sĩ, chuyên ngành kỹ thuật điện, The University of Texas at Arlington, Texas, USA, 2016 <br>
 - Thạc sĩ, chuyên ngành kỹ thuật điện, Đại học Bách Khoa Hà Nội, 2009 <br>
