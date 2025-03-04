@@ -15,6 +15,16 @@ image1="images/2023_Nhat HD_Nguyen Tien Thanh.jpg" link1="images/2023_Nhat HD_Ng
 image2="images/2023_Nhat HD_Nguyen Duy Linh.jpg" link2="images/2023_Nhat HD_Nguyen Duy Linh.jpg" tooltip2="2023"
 image3="images/2023_Nhat HD_Nguyen Trong Khiem.jpg" link3="images/2023_Nhat HD_Nguyen Trong Khiem.jpg" tooltip3="2023"
 image4="images/2023_Nhat HD_Tran Huu Quynh.jpg" link4="images/2023_Nhat HD_Tran Huu Quynh.jpg" tooltip4="2023"
+image5="images/2023_SF_Nhat.jpg" link5="images/2023_SF_Nhat.jpg" tooltip5="2023"
+image6="images/2023_SF_Ba.jpg" link6="images/2023_SF_Ba.jpg" tooltip6="2023"
+image7="images/2024_Nhat DH_Bui Thi Phuong Thao.jpg" link7="images/2024_Nhat DH_Bui Thi Phuong Thao.jpg" tooltip7="2024"
+image8="images/2024_Nhat DH_Nguyen Quoc Anh.jpg" link8="images/2024_Nhat DH_Nguyen Quoc Anh.jpg" tooltip8="2024"
+image9="images/2024_Nhat DH_Pham Tuan Nghia.jpg" link9="images/2024_Nhat DH_Pham Tuan Nghia.jpg" tooltip9="2024"
+image10="images/2024_Nhat DH_Tran Van Dai.jpg" link10="images/2024_Nhat DH_Tran Van Dai.jpg" tooltip10="2024"
+image11="images/2024_Nhat DH_Van Hoang Ngan.jpg" link11="images/2024_Nhat DH_Van Hoang Ngan.jpg" tooltip11="2024"
+image12="images/2024_Nhi cap Bo_Chung nhan.jpg" link12="images/2024_Nhi cap Bo_Chung nhan.jpg" tooltip12="2024"
+image13="images/2024_Nhi cap Bo_Bang khen.jpg" link13="images/2024_Nhi cap Bo_Bang khen.jpg" tooltip13="2024"
+
 
  %}
 {% include section.html %}
