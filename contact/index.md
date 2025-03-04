@@ -12,7 +12,8 @@ nav:
 TS. Nguyễn Quốc Minh<br>
 Địa chỉ Lab: Tòa nhà C7, Phòng E514, Đai học Bách Khoa Hà Nội<br>
 Số 1 Đại Cồ Việt, Quận Hai Bà Trưng, Hà Nội<br>
-E-mail: minh.nguyenquoc@hust.edu.vn  </p></center>
+E-mail: minh.nguyenquoc@hust.edu.vn <br>
+Apply: https://forms.office.com/r/p1KTwCwB7T  </p></center>
 {%
   include link.html
   type="address"
