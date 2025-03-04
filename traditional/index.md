@@ -11,9 +11,10 @@ nav:
 {:.center}
 {% include gallery.html style="square"
 
-image22="images/anh lab 09.10.2022 2.jpg" link22="images/anh lab 09.10.2022 2.jpg" tooltip22="Gặp mặt đầu năm học mới 09.10.2022"
-image1="images/funding34.jpg" link1="images/funding34.jpg" tooltip1="Ăn trưa tại lab"
-image2="images/C107062022.jpg" link2="images/C107062022.jpg" tooltip2="Hội nghị SVNCKH khoa Điện 2022"
+image1="images/ 2023_Nhat HD_Nguyen Tien Thanh.jpg" link1="images/ 2023_Nhat HD_Nguyen Tien Thanh.jpg" tooltip1="2023"
+image2="images/2023_Nhat HD_Nguyen Duy Linh.jpg" link2="images/2023_Nhat HD_Nguyen Duy Linh.jpg" tooltip2="2023"
+image3="images/ 2023_Nhat HD_Nguyen Trong Khiem.jpg" link3="images/ 2023_Nhat HD_Nguyen Trong Khiem.jpg" tooltip3="2023"
+image4="images/ 2023_Nhat HD_Tran Huu Quynh.jpg" link4="images/ 2023_Nhat HD_Tran Huu Quynh.jpg" tooltip4="2023"
 
  %}
 {% include section.html %}
