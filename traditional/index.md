@@ -4,7 +4,7 @@ nav:
   order: 5
   tooltip: About our achievement
 ---
-# <i class="fas fa-feather-alt"></i>Phòng truyền thống Smart Energy Lab 
+# <i class="fas fa-feather-alt"></i>Phòng truyền thống
 
 {% include section.html %}
 
