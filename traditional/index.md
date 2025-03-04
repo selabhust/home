@@ -24,7 +24,13 @@ image10="images/2024_Nhat DH_Tran Van Dai.jpg" link10="images/2024_Nhat DH_Tran 
 image11="images/2024_Nhat DH_Van Hoang Ngan.jpg" link11="images/2024_Nhat DH_Van Hoang Ngan.jpg" tooltip11="2024"
 image12="images/2024_Nhi cap Bo_Chung nhan.jpg" link12="images/2024_Nhi cap Bo_Chung nhan.jpg" tooltip12="2024"
 image13="images/2024_Nhi cap Bo_Bang khen.jpg" link13="images/2024_Nhi cap Bo_Bang khen.jpg" tooltip13="2024"
-
+image14="images/2024_SF_Nhat.jpg" link14="images/2024_SF_Nhat.jpg" tooltip14="2024"
+image15="images/2024_SF_Nhi.jpg" link15="images/2024_SF_Nhi.jpg" tooltip15="2024"
+image16="images/2024_SF_Ba.jpg" link16="images/2024_SF_Ba.jpg" tooltip16="2024"
+image17="images/2024_SF_Thuyet trinh 1.jpg" link17="images/2024_SF_Thuyet trinh 1.jpg" tooltip17="2024"
+image18="images/2024_SF_Thuyet trinh 2.jpg" link18="images/2024_SF_Thuyet trinh 2.jpg" tooltip18="2024"
+image19="images/2024_Nhat HD_Pham Tuan Nghia.jpg" link19="images/2024_Nhat HD_Pham Tuan Nghia.jpg" tooltip19="2024"
+image20="images/2024_Nhat HD_Tran Van Dai.jpg" link20="images/2024_Nhat HD_Tran Van Dai.jpg" tooltip20="2024"
 
  %}
 {% include section.html %}
