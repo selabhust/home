@@ -1,7 +1,7 @@
 ---
 name: TS. Nguyễn Quốc Minh
-image: images/NguyenQuocMinh.jpg
-description: Chủ nhiệm lab
+image: images/NguyenQuocMinh2.jpg
+description: Chủ nhiệm Lab
 role: chunhiem
 aliases:
 
