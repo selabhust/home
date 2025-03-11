@@ -320,6 +320,24 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: nguyenthanhvinh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: duongvantruong"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phamhungcuong"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phamthikhanhlinh"
 %}
 {:.center}
