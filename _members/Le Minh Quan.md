@@ -1,19 +1,18 @@
 ---
 name: Lê Minh Quân
 image: images/LeMinhQuan.jpg
-description: Điện-K69
+description: CTTT Hệ thống điện và Năng lượng tái tạo-K69
 role: leminhquan
 aliases:
-
 
 links:
   #home-page: 
   linkedin: #
   email: 
-  github: #
   #twitter: uptonogoode
 ---
 
-Học chương trình kỹ thuật điện
-
-Đại học Bách Khoa Hà Nội
+Học chuyên ngành CTTT Hệ Thống Điện & Năng Lượng Tái Tạo.
+<br>
+<br>
+Khoá 68 Trường Đại học Bách Khoa Hà Nội.
