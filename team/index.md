@@ -340,6 +340,36 @@ nav:
   component="portrait"
   filters="role: phamthikhanhlinh"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyentuanhung"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: chuquanghuy"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: leduchoang"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenminhhieu"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: leminhquan"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
