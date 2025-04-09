@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Văn Khải
 image: images/NguyenVanKhai2.jpg
-description: Điện-K64
+description: Điện-K64, hiện đang làm việc tại Trung tâm Điều độ HTĐ miền Bắc
 role: nguyenvankhai
 aliases:
 
