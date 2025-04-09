@@ -62,12 +62,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: nguyenvankhai"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: thanhvien27"
 %}
 {%
@@ -369,6 +363,12 @@ nav:
 # <i class="fas fa-users"></i> Cựu thành viên    
 
 {% include section.html %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenvankhai"
+%}
 {%
   include list.html
   data="members"
