@@ -110,6 +110,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: tranvandai"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: thanhvien31"
 %}
 {%
