@@ -364,6 +364,12 @@ nav:
   component="portrait"
   filters="role: dohoangminh"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: taquangphuong"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
