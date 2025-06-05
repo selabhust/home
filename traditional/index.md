@@ -32,6 +32,6 @@ image18="images/2024_SF_Thuyet trinh 1.jpg" link18="images/2024_SF_Thuyet trinh 
 image19="images/2024_SF_Thuyet trinh 2.jpg" link19="images/2024_SF_Thuyet trinh 2.jpg" tooltip19="2024"
 image20="images/2024_Nhat HD_Pham Tuan Nghia.jpg" link20="images/2024_Nhat HD_Pham Tuan Nghia.jpg" tooltip20="2024"
 image21="images/2024_Nhat HD_Tran Van Dai.jpg" link21="images/2024_Nhat HD_Tran Van Dai.jpg" tooltip21="2024"
-
+image22="images/2025_Nhat SEEE.jpg" link22="images/2025_Nhat SEEE.jpg" tooltip22="2025"
  %}
 {% include section.html %}
