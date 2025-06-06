@@ -33,5 +33,14 @@ image19="images/2024_SF_Thuyet trinh 2.jpg" link19="images/2024_SF_Thuyet trinh 
 image20="images/2024_Nhat HD_Pham Tuan Nghia.jpg" link20="images/2024_Nhat HD_Pham Tuan Nghia.jpg" tooltip20="2024"
 image21="images/2024_Nhat HD_Tran Van Dai.jpg" link21="images/2024_Nhat HD_Tran Van Dai.jpg" tooltip21="2024"
 image22="images/2025_Nhat SEEE.jpg" link22="images/2025_Nhat SEEE.jpg" tooltip22="2025"
+image23="images/2025_Nhi cap Bo_Bui Thi Phuong Thao_HUST.jpg" link23="images/2025_Nhi cap Bo_Bui Thi Phuong Thao_HUST.jpg" tooltip23="2025"
+image24="images/2025_Nhi cap Bo_Nguyen Quoc Anh_HUST.jpg" link24="images/2025_Nhi cap Bo_Nguyen Quoc Anh_HUST.jpg" tooltip24="2025"
+image25="images/2025_Nhi cap Bo_Pham Tuan Nghia_HUST.jpg" link25="images/2025_Nhi cap Bo_Pham Tuan Nghia_HUST.jpg" tooltip25="2025"
+image26="images/2025_Nhi cap Bo_Tran Van Dai_HUST.jpg" link26="images/2025_Nhi cap Bo_Tran Van Dai_HUST.jpg" tooltip26="2025"
+image27="images/2025_Nhi cap Bo_Van Hoang Ngan_HUST.jpg" link27="images/2025_Nhi cap Bo_Van Hoang Ngan_HUST.jpg" tooltip27="2025"
+image28="images/2025_Nhat DH_Pham Tuan Nghia.jpg" link28="images/2025_Nhat DH_Pham Tuan Nghia.jpg" tooltip28="2025"
+image29="images/2025_Nhat DH_Tran Van Dai.jpg" link29="images/2025_Nhat DH_Tran Van Dai.jpg" tooltip29="2025"
+image30="images/2025_Nhat DH_Pham Minh Hoang.jpg" link30="images/2025_Nhat DH_Pham Minh Hoang.jpg" tooltip30="2025"
+image31="images/2025_Nhat DH_Pham Thi Kim Huong.jpg" link31="images/2025_Nhat DH_Pham Thi Kim Huong.jpg" tooltip31="2025"
  %}
 {% include section.html %}
