@@ -272,6 +272,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: luongducduy"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phamviethung"
 %}
 {%
@@ -321,6 +327,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: phamhungcuong"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phanhoangbach"
 %}
 {%
   include list.html
