@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Các lĩnh vực nghiên cứu
+# <i class="fas fa-microscope"></i>Các lĩnh vực đào tạo và nghiên cứu
 
 {% capture text %}
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
