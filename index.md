@@ -50,7 +50,7 @@ Quyền lợi khi tham gia lab <br>
 - Mong muốn hoàn thiện bản thân <br>
 
 Đăng ký tham gia <br>
-- Điền link đăng ký: https://forms.office.com/r/p1KTwCwB7T <br>            
+- Điền link đăng ký: https://forms.gle/tXkrVWZbTgQrFth67 <br>            
 - Hình thức tuyển: Phỏng vấn trực tiếp hoặc online (Thời gian và địa chỉ sẽ được thông báo qua email đăng ký) <br>
 
 {% include section.html %}
