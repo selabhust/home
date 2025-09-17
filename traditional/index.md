@@ -41,6 +41,6 @@ image27="images/2024_Nhi cap Bo_Van Hoang Ngan_HUST.jpg" link27="images/2024_Nhi
 image28="images/2025_Nhat DH_Pham Tuan Nghia.jpg" link28="images/2025_Nhat DH_Pham Tuan Nghia.jpg" tooltip28="2025"
 image29="images/2025_Nhat DH_Tran Van Dai.jpg" link29="images/2025_Nhat DH_Tran Van Dai.jpg" tooltip29="2025"
 image30="images/2025_Nhat DH_Pham Minh Hoang.jpg" link30="images/2025_Nhat DH_Pham Minh Hoang.jpg" tooltip30="2025"
-image31="images/2024_Nhat HD_Tran Van Tien.jpg" link31="images/2024_Nhat HD_Tran Van Tien.jpg.jpg" tooltip31="2025"
+image31="images/2024_Nhat HD_Tran Van Tien.jpg" link31="images/2024_Nhat HD_Tran Van Tien.jpg" tooltip31="2025"
  %}
 {% include section.html %}
