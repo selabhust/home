@@ -27,7 +27,7 @@ Quá trình đào tạo <br>
 
 Các môn học giảng dạy <br>
 - Rơle bảo vệ trong hệ thống điện <br>
-- SCADA trong hệ thống điện <br>
+- Tự động hóa hệ thống điện <br>
 - Nhập môn ngành điện <br>
 - Kỹ năng viết và thuyết trình tiếng Anh <br>
 
