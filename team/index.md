@@ -358,6 +358,12 @@ nav:
   component="portrait"
   filters="role: taquangphuong"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phanbaongoc"
+%}
 {:.center}
 
 # <i class="fas fa-users"></i> Cựu thành viên    
