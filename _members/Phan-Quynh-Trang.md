@@ -1,7 +1,7 @@
 ---
 name: Phan Quỳnh Trang
 image: images/PhanQuynhTrang.jpg
-description: Kinh tế công nghiệp-K65
+description: Kinh tế công nghiệp-K65, hiện đang làm việc tại Makalot Industrial Co., Ltd
 role: phanquynhtrang
 aliases:
 
