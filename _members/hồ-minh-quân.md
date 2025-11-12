@@ -1,8 +1,8 @@
 ---
 name: Hồ Minh Quân
 image: images/HoMinhQuan.jpg
-description: Điện-K65
-role: thanhvien28
+description: Điện-K65, hiện đang làm việc tại công ty CP dịch vụ kỹ thuật điện lực Việt Nam (EVS)
+role: hominhquan
 aliases:
 
 links:
