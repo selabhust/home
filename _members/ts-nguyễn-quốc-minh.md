@@ -1,18 +1,17 @@
 ---
-name: TS. Nguyễn Quốc Minh
+name: PGS. TS. Nguyễn Quốc Minh
 image: images/NguyenQuocMinh2.jpg
 description: Chủ nhiệm Lab
 role: chunhiem
 aliases:
 
 links:
-  home-page: https://see.hust.edu.vn/nqminh
+  home-page: https://seee.hust.edu.vn/vi/suborgans/person/Khoa-Dien-3/TS-Nguyen-Quoc-Minh-144
   email: minh.nguyenquoc@hust.edu.vn
   #github: anne-chovie
-  phone: 0913281695
   google-scholar: 3k7E5NEAAAAJ
 ---
-Phó Trưởng Bộ môn Hệ thống điện, Viện Điện, Đại học Bách Khoa Hà Nội.
+Phó Trưởng Khoa Điện, Trường Điện-Điện tử, Đại học Bách Khoa Hà Nội.
 
 Tiến sĩ, chuyên ngành kỹ thuật điện, The University of Texas at Arlington, Texas, USA, 2016.
 
@@ -23,6 +22,7 @@ Kỹ sư, chuyên ngành hệ thống điện, Đại học Bách Khoa Hà Nội
 Hướng nghiên cứu: 
   
   - Bảo vệ và điều khiển hệ thống điện.
-  - SCADA và tự động hóa trong hệ thống điện.
-  - Ứng dụng AI trong lưới điện thông minh.
+  - Tự động hóa trong hệ thống điện.
+  - Khoa học dữ liệu ứng dụng trong lưới điện thông minh.
+  - Tích hợp các nguồn năng lượng mới và tái tạo.
   - Truyền tải điện không dây.
