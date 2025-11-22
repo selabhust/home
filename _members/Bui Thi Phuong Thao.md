@@ -1,7 +1,7 @@
 ---
 name: Bùi Thị Phương Thảo
 image: images/BuiThiPhuongThao.jpg
-description: Điện-K67
+description: Điện-K67, Trưởng Lab
 role: buithiphuongthao
 aliases:
 
