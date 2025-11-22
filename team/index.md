@@ -16,42 +16,12 @@ nav:
   component="portrait"
   filters="role: chunhiem"
 %}
-<!-- {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien1"
-%}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: thanhvien2"
-%} -->
-<!-- {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien6"
-%} -->
-<!--{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien13"
+  filters="role: buithiphuongthao"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien14"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: thanhvien15"
-%}-->
 {%
   include list.html
   data="members"
@@ -183,12 +153,6 @@ nav:
   data="members"
   component="portrait"
   filters="role: nguyenthithao"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: buithiphuongthao"
 %}
 {%
   include list.html
