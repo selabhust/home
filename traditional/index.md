@@ -43,5 +43,7 @@ image29="images/2025_Nhat DH_Tran Van Dai.jpg" link29="images/2025_Nhat DH_Tran 
 image30="images/2025_Nhat DH_Pham Minh Hoang.jpg" link30="images/2025_Nhat DH_Pham Minh Hoang.jpg" tooltip30="2025"
 image31="images/2024_Nhat HD_Tran Van Tien.jpg" link31="images/2024_Nhat HD_Tran Van Tien.jpg" tooltip31="2025"
 image32="images/2025_Nhi cap Bo_Bang khen.jpg " link32="images/2025_Nhi cap Bo_Bang khen.jpg " tooltip32="2025"
+image33="images/ 2025_SF_Nhat tieu ban.jpg" link33="images/ 2025_SF_Nhat tieu ban.jpg " tooltip33="2025"
+image34="images/ 2025_SF_Nhi tieu ban.jpg" link34="images/ 2025_SF_Nhi tieu ban.jpg " tooltip34="2025"
  %}
 {% include section.html %}
