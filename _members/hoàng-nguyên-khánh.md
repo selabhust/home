@@ -1,7 +1,7 @@
 ---
 name: Hoàng Nguyên Khánh
 image: images/HoangNguyenKhanh.jpg
-description: CTTT HTĐ K61, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia
+description: CTTT HTĐ K61, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia 
 role: hoangnguyenkhanh
 aliases:
 
