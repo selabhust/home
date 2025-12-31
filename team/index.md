@@ -588,9 +588,9 @@ nav:
 2. Nguyễn Tú Quyên - 2022b, hiện đang làm việc tại Trung tâm Điều độ HTĐ thành phố Hà Nội <br>
 3. Nguyễn Văn Hùng - 2021b, hiện đang làm việc tại Trường Đại học Hàng Hải <br>
 4. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Ban kế hoạch, Tập đoàn Điện lực Việt Nam <br>
-5. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
+5. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
 6. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
-7.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia <br>
+7.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
 8. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
 9. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
 10. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
