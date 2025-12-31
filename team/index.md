@@ -581,7 +581,7 @@ nav:
 %}
 
 {:.center}
-<!--
+
 # <i class="fas fa-users"></i> Sau đại học
 
 1. Chu Nguyên Chương - 2022b, hiện đang làm việc tại Công ty truyền tải điện 1 <br>
@@ -603,4 +603,4 @@ nav:
 17. Hồ Viết Huy - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
 18. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
 19. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
--->
+
