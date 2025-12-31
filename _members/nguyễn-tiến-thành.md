@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Tiến Thành
 image: images/NguyenTienThanh.jpg
-description: Điện-K63, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia
+description: Điện-K63, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia 
 role: nguyentienthanh
 aliases:
 
