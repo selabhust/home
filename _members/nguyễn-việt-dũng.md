@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Việt Dũng
 image: images/NguyenVietDung.jpg
-description: Điện-K60, hiện đang làm việc tại Trung tâm Điều độ HTĐ Quốc gia
+description: Điện-K60, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia 
 role: nguyenvietdung
 aliases:
 
