@@ -1,7 +1,7 @@
 ---
 name: Phạm Tuấn Nghĩa
 image: images/PhamTuanNghia2.jpg
-description: Điện-K65
+description: Điện-K65, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia
 role: PhamTuanNghia
 aliases:
 
