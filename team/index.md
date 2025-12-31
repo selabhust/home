@@ -32,18 +32,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: NguyenQuocAnh"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: PhamTuanNghia"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: phamquangminh"
 %}
 {%
@@ -332,6 +320,18 @@ nav:
   data="members"
   component="portrait"
   filters="role: NgoGiaPhong"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: PhamTuanNghia"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: NguyenQuocAnh"
 %}
 {%
   include list.html
