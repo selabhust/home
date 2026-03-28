@@ -10,8 +10,8 @@ nav:
 <center>
 <p style='text-align: left;'> 
 PGS. TS. Nguyễn Quốc Minh<br>
-Địa chỉ Lab: Tòa nhà C7, Phòng E501, Đai học Bách Khoa Hà Nội<br>
-Số 1 Đại Cồ Việt, phường Bạch Mai, Thành phố Hà Nội<br>
+Office: Tòa nhà C7, Phòng E501, Đai học Bách Khoa Hà Nội<br>
+Address: Số 1 Đại Cồ Việt, phường Bạch Mai, Thành phố Hà Nội<br>
 E-mail: minh.nguyenquoc@hust.edu.vn <br>
 {%
   include link.html
