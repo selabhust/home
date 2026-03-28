@@ -9,7 +9,7 @@ nav:
 
 <center>
 <p style='text-align: left;'> 
-TS. Nguyễn Quốc Minh<br>
+PGS. TS. Nguyễn Quốc Minh<br>
 Địa chỉ Lab: Tòa nhà C7, Phòng E514, Đai học Bách Khoa Hà Nội<br>
 Số 1 Đại Cồ Việt, Quận Hai Bà Trưng, Hà Nội<br>
 E-mail: minh.nguyenquoc@hust.edu.vn <br>
