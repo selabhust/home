@@ -74,7 +74,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 <br>
 # <i class="fas fa-microscope"></i>Các công bố khoa học
-1.	Nguyen Quoc Minh, To Tien Hung, Nguyen Ich Hao, Le Thi Nhat Minh, Nguyen Sy Nam Anh, Nguyen Minh Hoang “Enhancing Grid Resilience with Line-Aware Reinforcement Learning under High Renewable Generation Uncertainty,” 2025 Asia Meeting on Environment and Electrical Engineering (EEE-AM), 1-5, Hanoi, Nov. 2025. <br>
+1.	Nguyen Quoc Minh, To Tien Hung, Nguyen Ich Hao, Le Thi Nhat Minh, Nguyen Sy Nam Anh, Nguyen Minh Hoang “Enhancing Grid Resilience with Line-Aware Reinforcement Learning under High Renewable Generation Uncertainty,” 2025 Asia Meeting on Environment and Electrical Engineering (EEE-AM), 1-5, Hanoi, Nov. 2025. https://doi.org/10.1109/EEE-AM66675.2025.11473368 <br>
 2.	Pham Minh Hoang, Nguyen Ich Hao, Do Hoang Minh, Pham Ngoc Minh, Van Hoang Ngan, Nguyen Quoc Minh “Towards Reliable Dynamic Line Rating: EnUKF-Based State Estimation on 220 kV Lines,” 2025 Asia Meeting on Environment and Electrical Engineering (EEE-AM), 1-6, Hanoi, Nov. 2025. <br>
 3.	Nguyen Quoc Minh , Tran Van Dai , Pham Minh Hoang , Pham Hong Hai , Le Thi Minh Chau “A mixed-integer linear programming model for BESS sizing optimization considering aging effects and emission costs,” Smart Energy, vol. 21, 100225, Feb. 2026. (ESCI-Q1). <br>
 4.	Nguyen Quoc Minh, Tran Van Tien, Nguyen Minh Hoang, Bui Thi Phuong Thao “Accurate fault localization in power transmission line with wind penetration using variational mode decomposition and CNN-GRU architecture” Electric Power Systems Research, vol. 253, no. 3, 112515, Apr. 2026. (SCIE-Q1). <br>
