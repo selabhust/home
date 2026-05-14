@@ -339,6 +339,12 @@ nav:
   component="portrait"
   filters="role: hominhquan"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: tranthimaianh"
+%}
  {%
   include list.html
   data="members"
