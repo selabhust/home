@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Thị Hồng Loan
 image: images/NguyenThiHongLoan.jpg
-description: Kinh tế công nghiệp-K66
+description: Kinh tế công nghiệp-K66, hiện đang làm việc tại Viettel
 role: nguyenthihongloan
 aliases:
 
