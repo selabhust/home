@@ -1,7 +1,7 @@
 ---
 name: Trần Thị Mai Anh
 image: images/TranThiMaiAnh.jpg
-description: Kinh tế công nghiệp-K65, hiện đang làm việc tại Công ty kiểm định và huấn luyện an toàn
+description: Kinh tế công nghiệp-K65, hiện đang làm việc tại Ban QLDA, NPC
 role: tranthimaianh
 aliases:
 
