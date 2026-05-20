@@ -134,12 +134,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: nguyenthithao"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: phamminhhoang"
 %}
 {%
@@ -183,12 +177,6 @@ nav:
   data="members"
   component="portrait"
   filters="role: luongducduy"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phamviethung"
 %}
 {%
   include list.html
