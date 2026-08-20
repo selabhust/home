@@ -46,5 +46,7 @@ image32="images/2025_Nhi cap Bo_Bang khen.jpg" link32="images/2025_Nhi cap Bo_Ba
 image33="images/2025_SF_Nhat tieu ban.jpg" link33="images/2025_SF_Nhat tieu ban.jpg" tooltip33="2025"
 image34="images/2025_SF_Nhi tieu ban.jpg" link34="images/2025_SF_Nhi tieu ban.jpg" tooltip34="2025"
 image35="images/2025_Nhat HD_Tran Van Dai.jpg" link35="images/2025_Nhat HD_Tran Van Dai.jpg" tooltip35="2025"
+image36="images/2025_Nhat HD_Bui Thi Phuong Thao.png" link36="images/2025_Nhat HD_Bui Thi Phuong Thao.png" tooltip36="2025"
+image37="images/2025_Nhi DH.png" link37="images/2025_Nhi DH.png" tooltip37="2025"
  %}
 {% include section.html %}
