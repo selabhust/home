@@ -581,25 +581,26 @@ nav:
 1. Hoàng Duy Nguyện - 2025a, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
 2. Hoàng Nguyên Khánh - 2025a, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
 3. Hoàng Vinh - 2024b, hiện đang làm việc tại Công ty truyền tải điện 3 <br>
-4. Cao Văn Hải - 2024b, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
-5. Nguyễn Tú Quyên - 2022b, hiện đang làm việc tại Trung tâm Điều độ HTĐ thành phố Hà Nội <br>
-6. Nguyễn Văn Hùng - 2021b, hiện đang làm việc tại Trường Đại học Hàng Hải <br>
-7. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Ban kế hoạch, Tập đoàn Điện lực Việt Nam <br>
-8. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
-9. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
-10.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
-11. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
-12. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
-13. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
-14. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Ba Đình <br>
-15. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
-16. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại Công ty truyền tải điện I <br>
-17. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
-18. Pech Dida - 2018b, hiện đang làm việc tại Trung tâm Điều độ HTĐ Cambodia <br>
-19. Chu Thế Hùng - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc  <br>
-20. Hồ Viết Huy - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
-21. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
-22. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
+4. Lâm Thành Vinh - 2024b, hiện đang làm việc tại Công ty Cổ phần Dịch vụ Đầu tư và Công nghệ ITS <br>
+5. Cao Văn Hải - 2024b, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
+6. Nguyễn Tú Quyên - 2022b, hiện đang làm việc tại Trung tâm Điều độ HTĐ thành phố Hà Nội <br>
+7. Nguyễn Văn Hùng - 2021b, hiện đang làm việc tại Trường Đại học Hàng Hải <br>
+8. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Ban kế hoạch, Tập đoàn Điện lực Việt Nam <br>
+9. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
+10. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
+11.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
+12. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
+13. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
+14. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
+15. Trần Quốc Thanh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Ba Đình <br>
+16. Nguyễn Quang Thắng - 2019b, hiện đang làm việc tại Samsung <br>
+17. Nguyễn Viết Chính - 2019b, hiện đang làm việc tại Công ty truyền tải điện I <br>
+18. Phạm Văn Hùng - 2019a, hiện đang làm việc tại AES Mông Dương <br>
+19. Pech Dida - 2018b, hiện đang làm việc tại Trung tâm Điều độ HTĐ Cambodia <br>
+20. Chu Thế Hùng - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc  <br>
+21. Hồ Viết Huy - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
+22. Nguyễn Lan Hương - 2017b, hiện đang làm việc tại Tổng công ty Điện lực miền Bắc <br>
+23. Trương Tuấn Việt - 2017b, hiện đang làm việc tại Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật Công Trình Việt <br> 
 
 # <i class="fas fa-users"></i> Nghiên cứu sinh
 1. Trương Khánh Điệp - 2026, hiện đang làm việc tại Viện Năng lượng <br>
