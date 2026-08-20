@@ -587,7 +587,7 @@ nav:
 7. Nguyễn Minh Hiếu - 2021a, hiện đang làm việc tại Ban kế hoạch, Tập đoàn Điện lực Việt Nam <br>
 8. Nguyễn Chất Phát - 2021a, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
 9. Nguyễn Hoàng Kim - 2021a, hiện đang làm việc tại ABB <br>
-10.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
+10.  Vũ Hoài Giang - 2020b, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia <br>
 11. Đỗ Quỳnh Anh - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
 12. Ngô Anh Tuấn - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
 13. Nguyễn Kim Chi - ETM2020a, hiện đang làm việc tại Công ty Điện lực Hoàn Kiếm <br>
