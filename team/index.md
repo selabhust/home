@@ -32,18 +32,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: nguyenhoangvananh"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: tranvandai"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: thanhvien32"
 %}
 {%
@@ -92,18 +80,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: tranxuanan"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: tranmanhhung"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: vusontung"
 %}
 {%
@@ -135,12 +111,6 @@ nav:
   data="members"
   component="portrait"
   filters="role: phamngocminh"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: lamthiminh"
 %}
 {%
   include list.html
@@ -291,6 +261,30 @@ nav:
 # <i class="fas fa-users"></i> Cựu thành viên    
 
 {% include section.html %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: tranmanhhung"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: tranvandai"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenhoangvananh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: tranxuanan"
+%}
 {%
   include list.html
   data="members"
