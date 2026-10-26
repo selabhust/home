@@ -1,7 +1,7 @@
 ---
 name: Trần Văn Đại
 image: images/TranVanDai.jpg
-description: Điện-K66
+description: Điện-K66, hiện đang làm việc tại Công ty Vận hành hệ thống điện và thị trường điện Quốc gia 
 role: tranvandai
 aliases:
 
