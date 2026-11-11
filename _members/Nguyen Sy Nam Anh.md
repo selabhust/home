@@ -1,7 +1,7 @@
 ---
 name: Nguyễn Sỹ Nam Anh
 image: images/NguyenSyNamAnh.jpg
-description: CTTT Hệ thống điện và Năng lượng tái tạo-K67
+description: CTTT Hệ thống điện và Năng lượng tái tạo-K67, hiện đang làm việc tại Huwei
 role: nguyensynamanh
 aliases:
 
