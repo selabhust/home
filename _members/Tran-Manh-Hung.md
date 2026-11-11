@@ -1,7 +1,7 @@
 ---
 name: Trần Mạnh Hùng
 image: images/TranManhHung.jpeg
-description: Điện-K67, hiện đang làm NCS tại Grenoble INP, France
+description: Điện-K67, hiện đang làm nghiên cứu sinh tại Grenoble INP, France
 role: tranmanhhung
 aliases:
 
