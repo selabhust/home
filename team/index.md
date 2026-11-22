@@ -241,6 +241,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: thaileminh"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: nguyensynamanh"
 %}
 {%
