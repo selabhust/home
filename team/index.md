@@ -279,6 +279,18 @@ nav:
   component="portrait"
   filters="role: tranxuanan"
 %}
+ {%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: domailinh"
+%} 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: nguyenthihongloan"
+%} 
 {%
   include list.html
   data="members"
@@ -303,18 +315,7 @@ nav:
   component="portrait"
   filters="role: hominhquan"
 %}
- {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: domailinh"
-%} 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: nguyenthihongloan"
-%} 
+
 {%
   include list.html
   data="members"
